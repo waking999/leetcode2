@@ -32,7 +32,7 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 Coud you solve it without converting the integer to a string?
     
-#### Note
+ 
    
 [Back](./readme.md)
 

@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0001twosum/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0007reverseinteger/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0009palindromenumber/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0013romantointeger/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/solution-template.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e00013romantointeger/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0013romantointeger/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e0001twosum/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0001twosum/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e0007reverseinteger/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0007reverseinteger/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/readme-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/readme-template.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/e00013romantointeger/s01/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/e0013romantointeger/s01/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e00013romantointeger/s01/RomanToIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0013romantointeger/s01/RomanToIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/easy/e0001twosum/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0001twosum/description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/easy/e0007reverseinteger/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0007reverseinteger/description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/easy/e0013romantointeger/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/easy/readme-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/description-template.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,7 +57,7 @@
         <counts>
           <entry key="html" value="19" />
           <entry key="java" value="309" />
-          <entry key="md" value="468" />
+          <entry key="md" value="483" />
           <entry key="txt" value="14" />
           <entry key="xml" value="19" />
         </counts>
@@ -63,7 +66,7 @@
         <counts>
           <entry key="HTML" value="19" />
           <entry key="JAVA" value="309" />
-          <entry key="Markdown" value="468" />
+          <entry key="Markdown" value="483" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="XML" value="19" />
         </counts>
@@ -72,14 +75,14 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="java" value="15" />
-          <entry key="md" value="15" />
+          <entry key="md" value="25" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="15" />
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="25" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -88,16 +91,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/readme.md">
+        <entry file="file://$PROJECT_DIR$/docs/easy/description-template.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="559">
-                <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <first_editor relative-caret-position="119">
+                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,23 +103,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/readme.md">
+        <entry file="file://$PROJECT_DIR$/docs/easy/solution-template.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="527">
-                <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <first_editor>
+                <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -129,11 +115,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/easy/readme-template.md">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/solution.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,11 +127,83 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/solution.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="559">
-                <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="525">
+                <caret line="65" selection-start-line="65" selection-end-line="65" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/solution.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="51">
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="525">
+                <caret line="36" selection-start-line="36" selection-end-line="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/solution.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/description.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="510">
+                <caret line="30" selection-start-line="30" selection-end-line="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/description.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="289">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -188,6 +246,16 @@
         <option value="$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0013romantointeger/readme.md" />
         <option value="$PROJECT_DIR$/docs/easy/readme-template.md" />
+        <option value="$PROJECT_DIR$/docs/easy/description-template.md" />
+        <option value="$PROJECT_DIR$/docs/easy/solution-template.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0001twosum/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0001twosum/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0007reverseinteger/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0007reverseinteger/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0009palindromenumber/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0013romantointeger/solution.md" />
       </list>
     </option>
   </component>
@@ -343,7 +411,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534224289288" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534224480839" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -352,11 +420,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e00013romantointeger" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0001twosum" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0007reverseinteger" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0009palindromenumber" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java\easy\e0001twosum\s01" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0013romantointeger" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e00013romantointeger" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy" />
@@ -482,7 +550,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534210846483</updated>
-      <workItem from="1534210848465" duration="6899000" />
+      <workItem from="1534210848465" duration="7085000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -498,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534223614764</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="easy 1">
+      <created>1534224300150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534224300150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -534,7 +609,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6899000" />
+    <option name="totallyTimeSpent" value="7085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -722,7 +797,27 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/readme.md">
+    <entry file="file://$PROJECT_DIR$/docs/easy/description-template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/solution-template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/description.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
@@ -730,48 +825,78 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <first_editor relative-caret-position="289">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/readme.md">
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/solution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
-            <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md">
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/description.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="559">
-            <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <first_editor relative-caret-position="510">
+            <caret line="30" selection-start-line="30" selection-end-line="30" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/readme.md">
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/solution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="559">
-            <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/readme-template.md">
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <first_editor relative-caret-position="525">
+            <caret line="36" selection-start-line="36" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="525">
+            <caret line="65" selection-start-line="65" selection-end-line="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>

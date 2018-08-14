@@ -63,6 +63,4 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
     
 #### Note
     
-### Runtime beats
 
-98.76%

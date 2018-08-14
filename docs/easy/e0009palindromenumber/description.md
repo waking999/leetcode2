@@ -34,6 +34,4 @@ Coud you solve it without converting the integer to a string?
     
 #### Note
    
-### Runtime beats
 
-79.51%    

@@ -5,6 +5,3 @@
 #### Example:
 
 #### Note
-
-### Runtime beats
-

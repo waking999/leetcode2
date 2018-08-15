@@ -12,7 +12,7 @@ public class RomanToIntegerTest {
         String str;
         int expect;
         int output;
-        int seq = 0;
+        int seq = 1;
 
         str = "I";
         expect = 1;
@@ -33,8 +33,6 @@ public class RomanToIntegerTest {
         expect = -1;
         output = s.romanToInt(str);
         verify(expect, output, seq++);
-
-
 
         str = "";
         expect = -1;

@@ -13,7 +13,7 @@ public class ValidParenthesesTest {
         String str;
         boolean expect;
         boolean output;
-        int seq = 0;
+        int seq = 1;
 
         str = "()";
         expect = true;

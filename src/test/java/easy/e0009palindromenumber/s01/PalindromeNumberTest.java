@@ -12,7 +12,7 @@ public class PalindromeNumberTest {
         int x;
         boolean expect;
         boolean output;
-        int seq = 0;
+        int seq = 1;
 
         x = 0;
         expect = true;

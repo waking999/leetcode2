@@ -13,7 +13,7 @@ public class ReverseIntegerTest {
         int x;
         int expect;
         int output;
-        int seq = 0;
+        int seq = 1;
 
         x = 123;
         expect = 321;

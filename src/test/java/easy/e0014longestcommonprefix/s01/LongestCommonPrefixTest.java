@@ -12,7 +12,7 @@ public class LongestCommonPrefixTest {
         String[] input;
         String expect;
         String output;
-        int seq = 0;
+        int seq = 1;
 
         input = new String[]{"geeksforgeeks", "geeks", "geezer"};
         expect = "gee";

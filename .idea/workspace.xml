@@ -2,33 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0014longestcommonprefix/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0020validparentheses/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0020validparentheses/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0020validparentheses/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/IDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/ILinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/ITree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/QuadTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/TreeLinkNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0014longestcommonprefix/s01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0020validparentheses/s01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0014longestcommonprefix/s01/LongestCommonPrefixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0021mergetwosortedlists/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0021mergetwosortedlists/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0021mergetwosortedlists/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0026removeduplicatesfromsortedarray/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0026removeduplicatesfromsortedarray/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0026removeduplicatesfromsortedarray/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0027removeelement/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0027removeelement/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0027removeelement/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0028implementstrstr/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0028implementstrstr/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0028implementstrstr/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0035searchinsertposition/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0035searchinsertposition/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0035searchinsertposition/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0038countandsay/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0038countandsay/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0038countandsay/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0021mergetwosortedlists/s01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0026removeduplicatesfromsortedarray/s01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0027removeelement/s01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0028implementstrstr/s01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0035searchinsertposition/s01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0038countandsay/s01/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/common/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0026removeduplicatesfromsortedarray/s01/RemoveDuplicatesFromSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0027removeelement/s01/RemoveElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0028implementstrstr/s01/ImplementStrStrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0035searchinsertposition/s01/SearchInsertPositionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0038countandsay/s01/CountandSayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/description-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e0001twosum/solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0001twosum/solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/readme-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0014longestcommonprefix/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/solution-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0014longestcommonprefix/solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e0007reverseinteger/s01/ReverseIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0007reverseinteger/s01/ReverseIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e0009palindromenumber/s01/PalindromeNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0009palindromenumber/s01/PalindromeNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e0013romantointeger/s01/RomanToIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0013romantointeger/s01/RomanToIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e0014longestcommonprefix/s01/LongestCommonPrefixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0014longestcommonprefix/s01/LongestCommonPrefixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,17 +57,20 @@
     <SUITE FILE_PATH="coverage/leetcode2$ValidParenthesesTest_test1.ic" NAME="ValidParenthesesTest.test1 Coverage Results" MODIFIED="1534229504688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0020validparentheses.s01.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$TestSuit.ic" NAME="TestSuit Coverage Results" MODIFIED="1534226516445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.*</FILTER>
+    <SUITE FILE_PATH="coverage/leetcode2$MergeTwoSortedListsTest_test1.ic" NAME="MergeTwoSortedListsTest.test1 Coverage Results" MODIFIED="1534292903747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0021mergetwosortedlists.s01.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$PalindromeNumberTest_test1.ic" NAME="PalindromeNumberTest.test1 Coverage Results" MODIFIED="1534222680628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0009palindromenumber.s01.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$ImplementStrStrTest_test1.ic" NAME="ImplementStrStrTest.test1 Coverage Results" MODIFIED="1534296783356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0028implementstrstr.s01.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$RomanToIntegerTest_test1.ic" NAME="RomanToIntegerTest.test1 Coverage Results" MODIFIED="1534223233723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e00013romantointeger.s01.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$LongestCommonPrefixTest_test1.ic" NAME="LongestCommonPrefixTest.test1 Coverage Results" MODIFIED="1534226412781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0014longestcommonprefix.s01.*</FILTER>
+    <SUITE FILE_PATH="coverage/leetcode2$SearchInsertPositionTest_test1.ic" NAME="SearchInsertPositionTest.test1 Coverage Results" MODIFIED="1534297471773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0035searchinsertposition.s01.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$TwoSumTest_test1.ic" NAME="TwoSumTest.test1 Coverage Results" MODIFIED="1534220982755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0001twosum.s01.*</FILTER>
@@ -60,26 +78,43 @@
     <SUITE FILE_PATH="coverage/leetcode2$ReverseIntegerTest_test1.ic" NAME="ReverseIntegerTest.test1 Coverage Results" MODIFIED="1534221005320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0007reverseinteger.s01.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$RemoveElementTest_test1.ic" NAME="RemoveElementTest.test1 Coverage Results" MODIFIED="1534294508065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0027removeelement.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$TestSuit.ic" NAME="TestSuit Coverage Results" MODIFIED="1534226516445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$LongestCommonPrefixTest_test1.ic" NAME="LongestCommonPrefixTest.test1 Coverage Results" MODIFIED="1534226412781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0014longestcommonprefix.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$RemoveDuplicatesFromSortedArrayTest_test1.ic" NAME="RemoveDuplicatesFromSortedArrayTest.test1 Coverage Results" MODIFIED="1534294061058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0026removeduplicatesfromsortedarray.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$CountandSayTest_test1.ic" NAME="CountandSayTest.test1 Coverage Results" MODIFIED="1534298847180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0038countandsay.s01.*</FILTER>
+    </SUITE>
   </component>
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="0" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="357" />
+    <option name="myElementSize" value="361" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1964675779">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="19" />
-          <entry key="java" value="350" />
-          <entry key="md" value="641" />
+          <entry key="java" value="1367" />
+          <entry key="md" value="951" />
           <entry key="txt" value="14" />
           <entry key="xml" value="19" />
         </counts>
@@ -87,24 +122,26 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="19" />
-          <entry key="JAVA" value="350" />
-          <entry key="Markdown" value="641" />
+          <entry key="JAVA" value="1367" />
+          <entry key="Markdown" value="951" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="XML" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="40" />
-          <entry key="md" value="48" />
+          <entry key="java" value="90" />
+          <entry key="md" value="61" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="40" />
-          <entry key="Markdown" value="48" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="90" />
+          <entry key="Markdown" value="61" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -113,41 +150,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0020validparentheses/description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="508">
-                <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0020validparentheses/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0020validparentheses/s01/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0038countandsay/s01/CountandSayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,73 +162,91 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0035searchinsertposition/s01/SearchInsertPositionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="527">
-                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0028implementstrstr/s01/ImplementStrStrTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0027removeelement/s01/RemoveElementTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="491">
-                <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0026removeduplicatesfromsortedarray/s01/RemoveDuplicatesFromSortedArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="491">
-                <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0014longestcommonprefix/description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0027removeelement/s01/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0020validparentheses/solution.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0026removeduplicatesfromsortedarray/s01/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0021mergetwosortedlists/s01/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0001twosum/s01/TwoSumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -243,30 +267,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0001twosum/readme.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0001twosum/readme.html" />
-        <option value="$PROJECT_DIR$/src/test/java/common/Util.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0001twosum/s01/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/common/VerifyUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0001twosum/s01/TwoSumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0007reverseinteger/s01/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0007reverseinteger/s01/ReverseIntegerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/TestSuit.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0009palindromenumber/s01/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0009palindromenumber/s01/PalindromeNumberTest.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e00013romantointeger/readme.md" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e00013romantointeger/s01/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e00013romantointeger/s01/RomanToIntegerTest.java" />
-        <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0007reverseinteger/readme.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0013romantointeger/readme.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0001twosum/readme.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0001twosum/description.md" />
-        <option value="$PROJECT_DIR$/docs/easy/description-template.md" />
-        <option value="$PROJECT_DIR$/docs/easy/solution-template.md" />
-        <option value="$PROJECT_DIR$/docs/easy/readme-template.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0013romantointeger/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0009palindromenumber/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0007reverseinteger/solution.md" />
@@ -276,18 +276,48 @@
         <option value="$PROJECT_DIR$/docs/easy/e0014longestcommonprefix/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/description.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0014longestcommonprefix/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0014longestcommonprefix/s01/LongestCommonPrefixTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/QuadTree/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/ListNode.java" />
         <option value="$PROJECT_DIR$/docs/easy/e0020validparentheses/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0009palindromenumber/description.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0013romantointeger/description.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0020validparentheses/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0020validparentheses/s01/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0021mergetwosortedlists/s01/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0021mergetwosortedlists/description.md" />
+        <option value="$PROJECT_DIR$/src/main/java/common/Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java" />
+        <option value="$PROJECT_DIR$/src/test/java/common/Util.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0021mergetwosortedlists/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0026removeduplicatesfromsortedarray/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0026removeduplicatesfromsortedarray/solution.md" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0026removeduplicatesfromsortedarray/s01/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0027removeelement/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0027removeelement/solution.md" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0027removeelement/s01/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0028implementstrstr/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0014longestcommonprefix/s01/LongestCommonPrefixTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0013romantointeger/s01/RomanToIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0009palindromenumber/s01/PalindromeNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0007reverseinteger/s01/ReverseIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0028implementstrstr/s01/ImplementStrStrTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0028implementstrstr/s01/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0028implementstrstr/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0035searchinsertposition/description.md" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0035searchinsertposition/s01/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0035searchinsertposition/s01/SearchInsertPositionTest.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0035searchinsertposition/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0038countandsay/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0038countandsay/s01/CountandSayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0038countandsay/s01/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0038countandsay/solution.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0026removeduplicatesfromsortedarray/s01/RemoveDuplicatesFromSortedArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0027removeelement/s01/RemoveElementTest.java" />
       </list>
     </option>
   </component>
@@ -339,8 +369,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -364,42 +392,7 @@
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0001twosum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0007reverseinteger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0009palindromenumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0013romantointeger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0014longestcommonprefix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0020validparentheses" type="462c0819:PsiDirectoryNode" />
+              <item name="e0038countandsay" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -431,6 +424,60 @@
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -439,6 +486,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -447,6 +502,96 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="s01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -470,12 +615,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534229502045" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534299005553" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -483,17 +630,21 @@
     <property name="project.structure.side.proportion" value="0.33793104" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java\easy\e0020validparentheses\s01" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0020validparentheses" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\src\main\java\common" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0014longestcommonprefix" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0013romantointeger" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java\easy\e0021mergetwosortedlists\s01" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0007reverseinteger" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0001twosum" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0038countandsay" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java\easy\e0038countandsay\s01" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java\easy\e0035searchinsertposition\s01" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0035searchinsertposition" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java\easy\e0028implementstrstr\s01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -508,79 +659,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ValidParenthesesTest.test1">
-    <configuration name="LongestCommonPrefixTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CountandSayTest.test1">
+    <configuration name="CountandSayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0014longestcommonprefix.s01.*" />
+          <option name="PATTERN" value="easy.e0038countandsay.s01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0014longestcommonprefix.s01" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0014longestcommonprefix.s01.LongestCommonPrefixTest" />
+      <option name="PACKAGE_NAME" value="easy.e0038countandsay.s01" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0038countandsay.s01.CountandSayTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumberTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ImplementStrStrTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0009palindromenumber.s01.*" />
+          <option name="PATTERN" value="easy.e0028implementstrstr.s01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0009palindromenumber.s01" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0009palindromenumber.s01.PalindromeNumberTest" />
+      <option name="PACKAGE_NAME" value="easy.e0028implementstrstr.s01" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0028implementstrstr.s01.ImplementStrStrTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToIntegerTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveDuplicatesFromSortedArrayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e00013romantointeger.s01.*" />
+          <option name="PATTERN" value="easy.e0026removeduplicatesfromsortedarray.s01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e00013romantointeger.s01" />
-      <option name="MAIN_CLASS_NAME" value="easy.e00013romantointeger.s01.RomanToIntegerTest" />
+      <option name="PACKAGE_NAME" value="easy.e0026removeduplicatesfromsortedarray.s01" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0026removeduplicatesfromsortedarray.s01.RemoveDuplicatesFromSortedArrayTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveElementTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.*" />
+          <option name="PATTERN" value="easy.e0027removeelement.s01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy" />
-      <option name="MAIN_CLASS_NAME" value="easy.TestSuit" />
+      <option name="PACKAGE_NAME" value="easy.e0027removeelement.s01" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0027removeelement.s01.RemoveElementTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchInsertPositionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0020validparentheses.s01.*" />
+          <option name="PATTERN" value="easy.e0035searchinsertposition.s01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0020validparentheses.s01" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0020validparentheses.s01.ValidParenthesesTest" />
+      <option name="PACKAGE_NAME" value="easy.e0035searchinsertposition.s01" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0035searchinsertposition.s01.SearchInsertPositionTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -588,19 +741,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestSuit" />
-      <item itemvalue="JUnit.PalindromeNumberTest.test1" />
-      <item itemvalue="JUnit.RomanToIntegerTest.test1" />
-      <item itemvalue="JUnit.LongestCommonPrefixTest.test1" />
-      <item itemvalue="JUnit.ValidParenthesesTest.test1" />
+      <item itemvalue="JUnit.RemoveDuplicatesFromSortedArrayTest.test1" />
+      <item itemvalue="JUnit.RemoveElementTest.test1" />
+      <item itemvalue="JUnit.ImplementStrStrTest.test1" />
+      <item itemvalue="JUnit.SearchInsertPositionTest.test1" />
+      <item itemvalue="JUnit.CountandSayTest.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ValidParenthesesTest.test1" />
-        <item itemvalue="JUnit.TestSuit" />
-        <item itemvalue="JUnit.LongestCommonPrefixTest.test1" />
-        <item itemvalue="JUnit.RomanToIntegerTest.test1" />
-        <item itemvalue="JUnit.PalindromeNumberTest.test1" />
+        <item itemvalue="JUnit.CountandSayTest.test1" />
+        <item itemvalue="JUnit.SearchInsertPositionTest.test1" />
+        <item itemvalue="JUnit.ImplementStrStrTest.test1" />
+        <item itemvalue="JUnit.RemoveElementTest.test1" />
+        <item itemvalue="JUnit.RemoveDuplicatesFromSortedArrayTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -614,7 +767,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534210846483</updated>
-      <workItem from="1534210848465" duration="10650000" />
+      <workItem from="1534210848465" duration="10731000" />
+      <workItem from="1534292350679" duration="6513000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -658,61 +812,63 @@
       <option name="project" value="LOCAL" />
       <updated>1534225080800</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="easy 1">
+      <created>1534229550046</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534229550046</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanToIntegerTest_test1 - 2018.08.14 at 14h 33m 03s.xml">
-      <configuration name="RomanToIntegerTest.test1" configurationId="JUnit" />
+    <history-entry file="SearchInsertPositionTest_test1 - 2018.08.15 at 11h 14m 47s.xml">
+      <configuration name="SearchInsertPositionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntegerTest_test1 - 2018.08.14 at 14h 33m 21s.xml">
-      <configuration name="RomanToIntegerTest.test1" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 31m 32s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntegerTest_test1 - 2018.08.14 at 14h 36m 48s.xml">
-      <configuration name="RomanToIntegerTest.test1" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 31m 57s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanToIntegerTest_test1 - 2018.08.14 at 14h 37m 26s.xml">
-      <configuration name="RomanToIntegerTest.test1" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 32m 19s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestCommonPrefixTest_test1 - 2018.08.14 at 15h 30m 02s.xml">
-      <configuration name="LongestCommonPrefixTest.test1" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 32m 51s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestCommonPrefixTest_test1 - 2018.08.14 at 15h 30m 27s.xml">
-      <configuration name="LongestCommonPrefixTest.test1" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 33m 58s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSuit - 2018.08.14 at 15h 31m 13s.xml">
-      <configuration name="TestSuit" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 35m 31s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSuit - 2018.08.14 at 15h 32m 09s.xml">
-      <configuration name="TestSuit" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 36m 50s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidParenthesesTest_test1 - 2018.08.14 at 15h 47m 15s.xml">
-      <configuration name="ValidParenthesesTest.test1" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 37m 17s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidParenthesesTest_test1 - 2018.08.14 at 16h 20m 30s.xml">
-      <configuration name="ValidParenthesesTest.test1" configurationId="JUnit" />
+    <history-entry file="CountandSayTest_test1 - 2018.08.15 at 11h 37m 44s.xml">
+      <configuration name="CountandSayTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10650000" />
+    <option name="totallyTimeSpent" value="17244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498452" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" sideWeight="0.501548" side_tool="true" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49690402" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" sideWeight="0.503096" side_tool="true" visible="true" weight="0.25266525" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32987553" />
@@ -720,16 +876,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info active="true" anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32995737" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -743,335 +904,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="easy 1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0001twosum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0001twosum/s01/TwoSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../leetcode/test/leetcode/success/other/ReverseIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0007reverseinteger/s01/ReverseIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../leetcode/test/leetcode/success/array/PalindromeNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0009palindromenumber/s01/PalindromeNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../leetcode/test/leetcode/success/string/RomanToIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0013romantointeger/s01/RomanToIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="18" selection-start-column="18" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="2" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0007reverseinteger/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/IDP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/ITree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/ILinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0014longestcommonprefix/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0013romantointeger/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0009palindromenumber/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0014longestcommonprefix/s01/LongestCommonPrefixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/TestSuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="47" column="7" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="47" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/QuadTree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="96" selection-start-line="13" selection-start-column="96" selection-end-line="13" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="112" column="36" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/TreeLinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0014longestcommonprefix/s01/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0013romantointeger/s01/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0009palindromenumber/s01/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0007reverseinteger/s01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1083,9 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1100,17 +929,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/easy/e0001twosum/description.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="289">
             <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="19" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1172,20 +1001,356 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0020validparentheses/s01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="323">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0020validparentheses/s01/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/QuadTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="96" selection-start-line="13" selection-start-column="96" selection-end-line="13" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="360" column="32" selection-start-line="360" selection-start-column="32" selection-end-line="360" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0021mergetwosortedlists/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0021mergetwosortedlists/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0026removeduplicatesfromsortedarray/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="559">
+            <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0026removeduplicatesfromsortedarray/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0027removeelement/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0027removeelement/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0028implementstrstr/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0020validparentheses/s01/ValidParenthesesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0014longestcommonprefix/s01/LongestCommonPrefixTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0013romantointeger/s01/RomanToIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0009palindromenumber/s01/PalindromeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0007reverseinteger/s01/ReverseIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0028implementstrstr/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0035searchinsertposition/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="508">
+            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0035searchinsertposition/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0038countandsay/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="663">
+            <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0038countandsay/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-RC1/junit-platform-commons-1.3.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0035searchinsertposition/s01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0038countandsay/s01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0028implementstrstr/s01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0027removeelement/s01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0026removeduplicatesfromsortedarray/s01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0021mergetwosortedlists/s01/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0001twosum/s01/TwoSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0038countandsay/s01/CountandSayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0028implementstrstr/s01/ImplementStrStrTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0035searchinsertposition/s01/SearchInsertPositionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0026removeduplicatesfromsortedarray/s01/RemoveDuplicatesFromSortedArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0027removeelement/s01/RemoveElementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
         </state>
       </provider>
     </entry>

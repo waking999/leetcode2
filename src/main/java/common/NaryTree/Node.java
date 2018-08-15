@@ -19,32 +19,5 @@ public class Node {
         this.children = children;
     }
 
-//    public static Node constructTreeNode(int[] values, int[] parentIdxs) {
-//        int nodesLen = values.length;
-//        if (nodesLen == 0) {
-//            return null;
-//        }
-//        Map<Integer, Node> map = new HashMap<>();
-//        Node root = new Node( values[0],null);
-//        map.put(0, root);
-//
-//        for (int i = 1; i < nodesLen; i++) {
-//            Node childNode = new Node(values[i],null);
-//
-//            int parentIdx = parentIdxs[i];
-//            Node parentNode = map.get(parentIdx);
-//            List<Node> children = parentNode.children;
-//            if (children == null) {
-//                children = new ArrayList<>();
-//            }
-//            children.add(childNode);
-//            parentNode.children = children;
-//
-//            map.put(i, childNode);
-//        }
-//
-//        return root;
-//
-//    }
 
 }

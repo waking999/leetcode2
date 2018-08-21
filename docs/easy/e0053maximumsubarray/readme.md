@@ -1,3 +1,3 @@
 [Description](./description.md)
 
-[Solution](./solution.md)
+[Solution](solution.md)

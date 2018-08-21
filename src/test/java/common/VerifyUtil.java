@@ -3,6 +3,7 @@ package common;
 import org.junit.jupiter.api.Assertions;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -168,6 +169,19 @@ public class VerifyUtil {
         String outputStr = Arrays.stream(output).sorted().collect(Collectors.joining(","));
         Assertions.assertEquals(expectStr, outputStr, seq + ":wrong");
     }
+
+    public static void verifySort(String[] expect,List<String> output, int seq) {
+
+        int expectLen = expect.length;
+        int outputSize = output.size();
+
+        Assertions.assertEquals(expectLen, outputSize, seq + ":wrong");
+
+        String expectStr = Arrays.stream(expect).sorted().collect(Collectors.joining(","));
+        String outputStr = output.stream().sorted().collect(Collectors.joining(","));
+        Assertions.assertEquals(expectStr, outputStr, seq + ":wrong");
+    }
+
 
     public static void verifyUnsort(int[] expect, List<Integer> output, int seq) {
         if (expect == null && output == null) {

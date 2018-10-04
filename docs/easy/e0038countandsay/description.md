@@ -33,7 +33,7 @@ Input: 1
 
 Output: "1"
 
-#### Example 1:
+#### Example 2:
 
 Input: 4
 Output: "1211"

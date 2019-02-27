@@ -1,9 +1,6 @@
 package common.NaryTree;
 
-import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class Node {
     public static final int IMPOSSIBLE_VALUE = Integer.MIN_VALUE;

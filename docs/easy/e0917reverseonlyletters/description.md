@@ -18,11 +18,13 @@ Output: "dc-ba"
  
 
 Input: "a-bC-dEf-ghIj"
+
 Output: "j-Ih-gfE-dCba"
 
 #### Example 3:
 
 Input: "Test1ng-Leet=code-Q!"
+
 Output: "Qedo1ct-eeLg=ntse-T!
 
  

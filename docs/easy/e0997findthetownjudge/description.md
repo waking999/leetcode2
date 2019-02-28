@@ -46,10 +46,10 @@ Output: 3
  
 #### Note:
 
-1.1 <= N <= 1000
-2.trust.length <= 10000
-3.trust[i] are all different
-4.trust[i][0] != trust[i][1]
-5.1 <= trust[i][0], trust[i][1] <= N
+1. 1 <= N <= 1000
+2. trust.length <= 10000
+3. trust[i] are all different
+4. trust[i][0] != trust[i][1]
+5. 1 <= trust[i][0], trust[i][1] <= N
 
 [Back](readme.md)

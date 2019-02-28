@@ -39,8 +39,8 @@ The rook can capture the pawns at positions b5, d6 and f5.
  
 #### Note:
 
-1.board.length == board[i].length == 8
-2.board[i][j] is either 'R', '.', 'B', or 'p'
-3.There is exactly one cell with board[i][j] == 'R'
+1. board.length == board[i].length == 8
+2. board[i][j] is either 'R', '.', 'B', or 'p'
+3. There is exactly one cell with board[i][j] == 'R'
 
 [Back](readme.md)

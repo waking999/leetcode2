@@ -3,7 +3,7 @@ package easy.e0941validmountainarray;
 import common.VerifyUtil;
 import org.junit.jupiter.api.Test;
 
-public class ValidMountainArray {
+public class ValidMountainArrayTest {
     @Test
     public void test1(){
         Solution s=new Solution();

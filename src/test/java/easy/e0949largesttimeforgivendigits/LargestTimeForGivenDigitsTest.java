@@ -3,7 +3,7 @@ package easy.e0949largesttimeforgivendigits;
 import common.VerifyUtil;
 import org.junit.jupiter.api.Test;
 
-public class LargestTimeForGivenDigits {
+public class LargestTimeForGivenDigitsTest {
     @Test
     public void test1(){
         Solution s=new Solution();

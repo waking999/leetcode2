@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="easy 8">
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0937reorderlogfiles/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0937reorderlogfiles/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0937reorderlogfiles/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0941validmountainarray/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0941validmountainarray/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0941validmountainarray/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0949largesttimeforgivendigits/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0949largesttimeforgivendigits/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0949largesttimeforgivendigits/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0937reorderlogfiles/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0941validmountainarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0949largesttimeforgivendigits/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0937reorderlogfiles/ReorderLogFilesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0941validmountainarray/ValidMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0949largesttimeforgivendigits/LargestTimeForGivenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e1002findcommoncharacters/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0933numberofrecentcalls/NumberOfRecentCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e1002findcommoncharacters/FindCommonCharactersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/easy/e0999availablecapturesforrook/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0999availablecapturesforrook/description.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,50 +25,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leetcode2$MergeTwoSortedListsTest_test1.ic" NAME="MergeTwoSortedListsTest.test1 Coverage Results" MODIFIED="1534292903747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0021mergetwosortedlists.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$LongestCommonPrefixTest_test1.ic" NAME="LongestCommonPrefixTest.test1 Coverage Results" MODIFIED="1534226412781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0014longestcommonprefix.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$TwoSumTest_test1.ic" NAME="TwoSumTest.test1 Coverage Results" MODIFIED="1534220982755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0001twosum.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$PalindromeNumberTest_test1.ic" NAME="PalindromeNumberTest.test1 Coverage Results" MODIFIED="1534222680628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0009palindromenumber.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$CountandSayTest_test1.ic" NAME="CountandSayTest.test1 Coverage Results" MODIFIED="1534299080002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0038countandsay.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$RemoveDuplicatesFromSortedArrayTest_test1.ic" NAME="RemoveDuplicatesFromSortedArrayTest.test1 Coverage Results" MODIFIED="1534294061058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0026removeduplicatesfromsortedarray.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$RemoveElementTest_test1.ic" NAME="RemoveElementTest.test1 Coverage Results" MODIFIED="1534294508065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0027removeelement.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$ImplementStrStrTest_test1.ic" NAME="ImplementStrStrTest.test1 Coverage Results" MODIFIED="1534296783356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0028implementstrstr.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$TestSuit.ic" NAME="TestSuit Coverage Results" MODIFIED="1534299222593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$ValidParenthesesTest_test1.ic" NAME="ValidParenthesesTest.test1 Coverage Results" MODIFIED="1534229504688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0020validparentheses.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$ReverseOnlyLettersTest_test1.ic" NAME="ReverseOnlyLettersTest.test1 Coverage Results" MODIFIED="1550816388058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0917reverseonlyletters.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$SearchInsertPositionTest_test1.ic" NAME="SearchInsertPositionTest.test1 Coverage Results" MODIFIED="1534297471773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0035searchinsertposition.s01.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$MaximumSubarrayTest_test1.ic" NAME="MaximumSubarrayTest.test1 Coverage Results" MODIFIED="1534823129814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0053maximumsubarray.s01.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$RomanToIntegerTest_test1.ic" NAME="RomanToIntegerTest.test1 Coverage Results" MODIFIED="1534223233723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e00013romantointeger.s01.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$PalindromeNumberTest_test1.ic" NAME="PalindromeNumberTest.test1 Coverage Results" MODIFIED="1534222680628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0009palindromenumber.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$TwoSumTest_test1.ic" NAME="TwoSumTest.test1 Coverage Results" MODIFIED="1534220982755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0001twosum.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$TestSuit.ic" NAME="TestSuit Coverage Results" MODIFIED="1534299222593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$ImplementStrStrTest_test1.ic" NAME="ImplementStrStrTest.test1 Coverage Results" MODIFIED="1534296783356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0028implementstrstr.s01.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$ReverseIntegerTest_test1.ic" NAME="ReverseIntegerTest.test1 Coverage Results" MODIFIED="1534221005320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0007reverseinteger.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$RemoveDuplicatesFromSortedArrayTest_test1.ic" NAME="RemoveDuplicatesFromSortedArrayTest.test1 Coverage Results" MODIFIED="1534294061058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0026removeduplicatesfromsortedarray.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$CountandSayTest_test1.ic" NAME="CountandSayTest.test1 Coverage Results" MODIFIED="1534299080002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0038countandsay.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$ValidParenthesesTest_test1.ic" NAME="ValidParenthesesTest.test1 Coverage Results" MODIFIED="1534229504688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0020validparentheses.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$SearchInsertPositionTest_test1.ic" NAME="SearchInsertPositionTest.test1 Coverage Results" MODIFIED="1534297471773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0035searchinsertposition.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$MergeTwoSortedListsTest_test1.ic" NAME="MergeTwoSortedListsTest.test1 Coverage Results" MODIFIED="1534292903747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0021mergetwosortedlists.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$LongestCommonPrefixTest_test1.ic" NAME="LongestCommonPrefixTest.test1 Coverage Results" MODIFIED="1534226412781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0014longestcommonprefix.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$RemoveElementTest_test1.ic" NAME="RemoveElementTest.test1 Coverage Results" MODIFIED="1534294508065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0027removeelement.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$ReverseOnlyLettersTest_test1.ic" NAME="ReverseOnlyLettersTest.test1 Coverage Results" MODIFIED="1550816388058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0917reverseonlyletters.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageOptionsProvider">
@@ -81,32 +78,34 @@
     <option name="myElementSize" value="361" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0941validmountainarray/Solution.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+            <state relative-caret-position="435">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0941validmountainarray/description.md">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/description.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="354">
+                <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0941validmountainarray/solution.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/solution.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" column="145" selection-start-line="1" selection-start-column="145" selection-end-line="1" selection-end-column="145" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,33 +113,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0949largesttimeforgivendigits/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0933numberofrecentcalls/NumberOfRecentCalls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0937reorderlogfiles/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2164#2165#0" expanded="true" />
-                <element signature="e#2226#2227#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0941validmountainarray/ValidMountainArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="90">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -177,14 +153,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/easy/e0993cousinsinbinarytree/solution.md" />
-        <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0993cousinsinbinarytree/CousinsinBinaryTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0993cousinsinbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0989addtoarrayformofinteger/description.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0997findthetownjudge/description.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0999availablecapturesforrook/description.md" />
         <option value="$PROJECT_DIR$/src/test/java/easy/e0989addtoarrayformofinteger/AddtoArrayFormofIntegerTest.java" />
         <option value="$PROJECT_DIR$/docs/easy/e0989addtoarrayformofinteger/solution.md" />
         <option value="$PROJECT_DIR$/src/test/java/easy/e0985sumofevennumbersafterqueries/SumofEvenNumbersAfterQueriesTest.java" />
@@ -228,6 +197,13 @@
         <option value="$PROJECT_DIR$/src/main/java/easy/e0949largesttimeforgivendigits/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0937reorderlogfiles/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0941validmountainarray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e1002findcommoncharacters/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0999availablecapturesforrook/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0933numberofrecentcalls/NumberOfRecentCalls.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/solution.md" />
       </list>
     </option>
   </component>
@@ -239,10 +215,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -272,8 +247,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,6 +272,13 @@
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0933numberofrecentcalls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="e0941validmountainarray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,6 +291,13 @@
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0999availablecapturesforrook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,6 +329,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="e0949largesttimeforgivendigits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e1002findcommoncharacters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -380,6 +378,24 @@
               <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="e0984stringwithoutaaaorbbb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0999availablecapturesforrook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e1002findcommoncharacters" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -389,12 +405,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551422183684" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551675129897" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33793104" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -418,11 +434,11 @@
       <recent name="medium.m0890findandreplacepattern.s02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls" />
+      <recent name="$PROJECT_DIR$/docs/easy/e1002findcommoncharacters" />
+      <recent name="$PROJECT_DIR$/src/test/java/easy" />
+      <recent name="$PROJECT_DIR$/src/main/java/easy" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0941validmountainarray" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0937reorderlogfiles" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0949largesttimeforgivendigits" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0965univaluedbinarytree" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0970powerfulintegers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -437,7 +453,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ValidMountainArray.test1">
+  <component name="RunManager" selected="JUnit.NumberOfRecentCalls.test1">
+    <configuration name="FindCommonCharactersTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.e1002findcommoncharacters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.e1002findcommoncharacters" />
+      <option name="MAIN_CLASS_NAME" value="easy.e1002findcommoncharacters.FindCommonCharactersTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LargestTimeForGivenDigits.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
@@ -454,16 +486,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerfulIntegersTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOfRecentCalls.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0970powerfulintegers.*" />
+          <option name="PATTERN" value="easy.e0933numberofrecentcalls.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0970powerfulintegers" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0970powerfulintegers.PowerfulIntegersTest" />
+      <option name="PACKAGE_NAME" value="easy.e0933numberofrecentcalls" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0933numberofrecentcalls.NumberOfRecentCalls" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -480,22 +512,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="easy.e0937reorderlogfiles" />
       <option name="MAIN_CLASS_NAME" value="easy.e0937reorderlogfiles.ReorderLogFilesTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnivaluedBinaryTreeTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.e0965univaluedbinarytree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy.e0965univaluedbinarytree" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0965univaluedbinarytree.UnivaluedBinaryTreeTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -519,19 +535,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PowerfulIntegersTest.test1" />
-      <item itemvalue="JUnit.UnivaluedBinaryTreeTest.test1" />
       <item itemvalue="JUnit.LargestTimeForGivenDigits.test1" />
       <item itemvalue="JUnit.ReorderLogFilesTest.test1" />
       <item itemvalue="JUnit.ValidMountainArray.test1" />
+      <item itemvalue="JUnit.FindCommonCharactersTest.test1" />
+      <item itemvalue="JUnit.NumberOfRecentCalls.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NumberOfRecentCalls.test1" />
+        <item itemvalue="JUnit.FindCommonCharactersTest.test1" />
         <item itemvalue="JUnit.ValidMountainArray.test1" />
         <item itemvalue="JUnit.ReorderLogFilesTest.test1" />
         <item itemvalue="JUnit.LargestTimeForGivenDigits.test1" />
-        <item itemvalue="JUnit.UnivaluedBinaryTreeTest.test1" />
-        <item itemvalue="JUnit.PowerfulIntegersTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -565,6 +581,8 @@
       <workItem from="1551418083636" duration="98000" />
       <workItem from="1551418208055" duration="91000" />
       <workItem from="1551418715941" duration="3461000" />
+      <workItem from="1551665844272" duration="3478000" />
+      <workItem from="1551674161645" duration="964000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -668,46 +686,46 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReorderLogFilesTest_test1 - 2019.03.01 at 15h 50m 27s.xml">
-      <configuration name="ReorderLogFilesTest.test1" configurationId="JUnit" />
+    <history-entry file="FindCommonCharactersTest_test1 - 2019.03.04 at 12h 16m 02s.xml">
+      <configuration name="FindCommonCharactersTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 50m 34s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 10m 46s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 51m 20s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 11m 49s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 51m 23s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 13m 03s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 51m 42s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 14m 23s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 54m 41s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 16m 15s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 55m 06s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 16m 51s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 55m 10s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 17m 52s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 56m 13s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 18m 38s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidMountainArray_test1 - 2019.03.01 at 15h 56m 17s.xml">
-      <configuration name="ValidMountainArray.test1" configurationId="JUnit" />
+    <history-entry file="NumberOfRecentCalls_test1 - 2019.03.04 at 14h 19m 53s.xml">
+      <configuration name="NumberOfRecentCalls.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71165000" />
+    <option name="totallyTimeSpent" value="75607000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47603834" visible="true" weight="0.30597016" />
-      <window_info id="Structure" order="1" sideWeight="0.52396166" side_tool="true" visible="true" weight="0.30597016" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47248578" visible="true" weight="0.21959943" />
+      <window_info id="Structure" order="1" sideWeight="0.5275142" side_tool="true" visible="true" weight="0.21959943" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -715,15 +733,15 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32976446" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35369775" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35286623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3290461" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3290461" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -992,6 +1010,36 @@
           <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e1002findcommoncharacters/FindCommonCharactersTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e1002findcommoncharacters/FindCommonCharactersTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e1002findcommoncharacters/Solution.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1058,115 +1106,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0997findthetownjudge/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="766">
-            <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0993cousinsinbinarytree/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="476">
-            <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/TestSuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="457" selection-start-line="457" selection-end-line="457" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-RC1/junit-platform-commons-1.3.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0989addtoarrayformofinteger/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="403">
-            <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0989addtoarrayformofinteger/AddtoArrayFormofIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0989addtoarrayformofinteger/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0985sumofevennumbersafterqueries/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0985sumofevennumbersafterqueries/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="493">
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0985sumofevennumbersafterqueries/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0985sumofevennumbersafterqueries/SumofEvenNumbersAfterQueriesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/easy/e0984stringwithoutaaaorbbb/description.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1481,13 +1420,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0941validmountainarray/ValidMountainArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0941validmountainarray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="690">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1502,7 +1438,7 @@
     <entry file="file://$PROJECT_DIR$/docs/easy/e0941validmountainarray/solution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
+          <first_editor relative-caret-position="15">
             <caret line="1" column="145" selection-start-line="1" selection-start-column="145" selection-end-line="1" selection-end-column="145" />
           </first_editor>
           <second_editor />
@@ -1511,27 +1447,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0949largesttimeforgivendigits/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="570">
           <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0937reorderlogfiles/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="450">
           <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2164#2165#0" expanded="true" />
-            <element signature="e#2226#2227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0941validmountainarray/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0999availablecapturesforrook/AvailableCapturesforRookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0941validmountainarray/ValidMountainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/TestSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-RC1/junit-platform-commons-1.3.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6265">
+          <caret line="467" column="88" selection-start-line="467" selection-start-column="88" selection-end-line="467" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e1002findcommoncharacters/FindCommonCharactersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e1002findcommoncharacters/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0999availablecapturesforrook/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0933numberofrecentcalls/NumberOfRecentCalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="354">
+            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1575,7 +1615,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>9.0</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1592,6 +1632,7 @@
             <option name="proportions">
               <list>
                 <option value="0.33793104" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1615,7 +1656,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.33793104" />
               </list>
             </option>
           </splitter-proportions>

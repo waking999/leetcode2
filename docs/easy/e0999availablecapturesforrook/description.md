@@ -32,7 +32,6 @@ Output: 3
 
 Explanation: 
 The rook can capture the pawns at positions b5, d6 and f5.
-#### Example 4:
  
  
  

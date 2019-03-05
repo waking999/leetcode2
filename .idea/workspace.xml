@@ -2,29 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0908smallestrangei/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0908smallestrangei/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0908smallestrangei/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0944deletecolumnstomakesorted/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0944deletecolumnstomakesorted/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0944deletecolumnstomakesorted/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0961nrepeatedelementinsize2narray/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0961nrepeatedelementinsize2narray/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0961nrepeatedelementinsize2narray/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0994rottingoranges/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0994rottingoranges/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0994rottingoranges/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0908smallestrangei/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0944deletecolumnstomakesorted/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0961nrepeatedelementinsize2narray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0994rottingoranges/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0994rottingoranges/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0908smallestrangei/SmallestRangeITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0944deletecolumnstomakesorted/DeleteColumnsToMakeSortedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0961nrepeatedelementinsize2narray/NRepeatedElementInSize2NArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0994rottingoranges/RottingOrangesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0883projectionareaof3dshapes/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0883projectionareaof3dshapes/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0883projectionareaof3dshapes/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0953verifyinganaliendictionary/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0953verifyinganaliendictionary/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0953verifyinganaliendictionary/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0883projectionareaof3dshapes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0892surfaceareaof3dshapes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0914xofakindinadeckofcards/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0953verifyinganaliendictionary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0883projectionareaof3dshapes/ProjectionAreaOf3DShapesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0892surfaceareaof3dshapes/SurfaceAreaof3DShapesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0914xofakindinadeckofcards/XofAKindInaDeckofCardsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0953verifyinganaliendictionary/VerifyingAnAlienDictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/easy/e0925longpressedname/solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0925longpressedname/solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/easy/e0917reverseonlyletters/solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/easy/e0917reverseonlyletters/solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e0917reverseonlyletters/ReverseOnlyLettersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0917reverseonlyletters/ReverseOnlyLettersTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -88,13 +89,35 @@
     <option name="myElementSize" value="361" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0883projectionareaof3dshapes/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0883projectionareaof3dshapes/ProjectionAreaOf3DShapesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -103,9 +126,13 @@
       <find>]</find>
       <find>[</find>
       <find>&quot;</find>
+      <find>Output:</find>
+      <find>],[</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
+      <replace>expect=</replace>
+      <replace>},{</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -117,23 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0949largesttimeforgivendigits/LargestTimeForGivenDigits.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0949largesttimeforgivendigits/solution.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0937reorderlogfiles/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0937reorderlogfiles/ReorderLogFilesTest.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0937reorderlogfiles/solution.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0941validmountainarray/ValidMountainArray.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0941validmountainarray/solution.md" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0949largesttimeforgivendigits/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0937reorderlogfiles/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0941validmountainarray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e1002findcommoncharacters/Solution.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/description.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0999availablecapturesforrook/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0933numberofrecentcalls/NumberOfRecentCalls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/description.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/solution.md" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0942idstringmatch/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/easy/e0942idstringmatch/IDStringMatchTest.java" />
         <option value="$PROJECT_DIR$/docs/easy/e0942idstringmatch/solution.md" />
@@ -165,9 +175,26 @@
         <option value="$PROJECT_DIR$/docs/easy/e0908smallestrangei/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0908smallestrangei/description.md" />
         <option value="$PROJECT_DIR$/src/test/java/easy/e0994rottingoranges/RottingOrangesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0994rottingoranges/Solution.java" />
         <option value="$PROJECT_DIR$/docs/easy/e0994rottingoranges/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0994rottingoranges/description.md" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0994rottingoranges/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0917reverseonlyletters/ReverseOnlyLettersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0917reverseonlyletters/solution.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0953verifyinganaliendictionary/VerifyingAnAlienDictionary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0953verifyinganaliendictionary/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0953verifyinganaliendictionary/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0914xofakindinadeckofcards/XofAKindInaDeckofCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0914xofakindinadeckofcards/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0892surfaceareaof3dshapes/SurfaceAreaof3DShapesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0892surfaceareaof3dshapes/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0883projectionareaof3dshapes/description.md" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0883projectionareaof3dshapes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0883projectionareaof3dshapes/ProjectionAreaOf3DShapesTest.java" />
       </list>
     </option>
   </component>
@@ -211,8 +238,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,61 +261,49 @@
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0053maximumsubarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0883projectionareaof3dshapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="e0917reverseonlyletters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0925longpressedname" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0941validmountainarray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0994rottingoranges" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0999availablecapturesforrook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -339,6 +352,24 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="s01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0883projectionareaof3dshapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0917reverseonlyletters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -398,12 +429,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551758367623" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551772656527" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -422,22 +455,22 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="common" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/easy/e0883projectionareaof3dshapes" />
+      <recent name="$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes" />
+      <recent name="$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards" />
+      <recent name="$PROJECT_DIR$/docs/easy/e0953verifyinganaliendictionary" />
+      <recent name="$PROJECT_DIR$/docs/easy/e0994rottingoranges" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="medium.m0890findandreplacepattern.s02" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0989addtoarrayformofinteger" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0888faircandyswap" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\src\test\java\easy\e0021mergetwosortedlists\s01" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="medium.m0890findandreplacepattern.s02" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/easy/e0994rottingoranges" />
-      <recent name="$PROJECT_DIR$/docs/easy/e0908smallestrangei" />
-      <recent name="$PROJECT_DIR$/docs/easy/e0944deletecolumnstomakesorted" />
-      <recent name="$PROJECT_DIR$/docs/easy/e0961nrepeatedelementinsize2narray" />
-      <recent name="$PROJECT_DIR$/docs/easy/e0925longpressedname" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -452,81 +485,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RottingOrangesTest.test1">
-    <configuration name="DeleteColumnsToMakeSortedTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ProjectionAreaOf3DShapesTest.test1">
+    <configuration name="ProjectionAreaOf3DShapesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0944deletecolumnstomakesorted.*" />
+          <option name="PATTERN" value="easy.e0883projectionareaof3dshapes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0944deletecolumnstomakesorted" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0944deletecolumnstomakesorted.DeleteColumnsToMakeSortedTest" />
+      <option name="PACKAGE_NAME" value="easy.e0883projectionareaof3dshapes" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0883projectionareaof3dshapes.ProjectionAreaOf3DShapesTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongPressedNameTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseOnlyLettersTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0925longpressedname.*" />
+          <option name="PATTERN" value="easy.e0917reverseonlyletters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0925longpressedname" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0925longpressedname.LongPressedNameTest" />
+      <option name="PACKAGE_NAME" value="easy.e0917reverseonlyletters" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0917reverseonlyletters.ReverseOnlyLettersTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NRepeatedElementInSize2NArrayTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SurfaceAreaof3DShapesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0961nrepeatedelementinsize2narray.*" />
+          <option name="PATTERN" value="easy.e0892surfaceareaof3dshapes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0961nrepeatedelementinsize2narray" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0961nrepeatedelementinsize2narray.NRepeatedElementInSize2NArrayTest" />
+      <option name="PACKAGE_NAME" value="easy.e0892surfaceareaof3dshapes" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0892surfaceareaof3dshapes.SurfaceAreaof3DShapesTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RottingOrangesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VerifyingAnAlienDictionary.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0994rottingoranges.*" />
+          <option name="PATTERN" value="easy.e0953verifyinganaliendictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0994rottingoranges" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0994rottingoranges.RottingOrangesTest" />
+      <option name="PACKAGE_NAME" value="easy.e0953verifyinganaliendictionary" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0953verifyinganaliendictionary.VerifyingAnAlienDictionary" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestRangeITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="XofAKindInaDeckofCardsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0908smallestrangei.*" />
+          <option name="PATTERN" value="easy.e0914xofakindinadeckofcards.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0908smallestrangei" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0908smallestrangei.SmallestRangeITest" />
+      <option name="PACKAGE_NAME" value="easy.e0914xofakindinadeckofcards" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0914xofakindinadeckofcards.XofAKindInaDeckofCardsTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -534,19 +567,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.LongPressedNameTest.test1" />
-      <item itemvalue="JUnit.NRepeatedElementInSize2NArrayTest.test1" />
-      <item itemvalue="JUnit.DeleteColumnsToMakeSortedTest.test1" />
-      <item itemvalue="JUnit.SmallestRangeITest.test1" />
-      <item itemvalue="JUnit.RottingOrangesTest.test1" />
+      <item itemvalue="JUnit.ReverseOnlyLettersTest.test1" />
+      <item itemvalue="JUnit.VerifyingAnAlienDictionary.test1" />
+      <item itemvalue="JUnit.XofAKindInaDeckofCardsTest.test1" />
+      <item itemvalue="JUnit.SurfaceAreaof3DShapesTest.test1" />
+      <item itemvalue="JUnit.ProjectionAreaOf3DShapesTest.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RottingOrangesTest.test1" />
-        <item itemvalue="JUnit.SmallestRangeITest.test1" />
-        <item itemvalue="JUnit.DeleteColumnsToMakeSortedTest.test1" />
-        <item itemvalue="JUnit.NRepeatedElementInSize2NArrayTest.test1" />
-        <item itemvalue="JUnit.LongPressedNameTest.test1" />
+        <item itemvalue="JUnit.ProjectionAreaOf3DShapesTest.test1" />
+        <item itemvalue="JUnit.SurfaceAreaof3DShapesTest.test1" />
+        <item itemvalue="JUnit.XofAKindInaDeckofCardsTest.test1" />
+        <item itemvalue="JUnit.VerifyingAnAlienDictionary.test1" />
+        <item itemvalue="JUnit.ReverseOnlyLettersTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -581,7 +614,8 @@
       <workItem from="1551418208055" duration="91000" />
       <workItem from="1551418715941" duration="3461000" />
       <workItem from="1551665844272" duration="3478000" />
-      <workItem from="1551674161645" duration="17368000" />
+      <workItem from="1551674161645" duration="20704000" />
+      <workItem from="1551767988913" duration="3049000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -695,49 +729,64 @@
       <option name="project" value="LOCAL" />
       <updated>1551709060073</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="easy 10">
+      <created>1551758358285</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1551758358285</updated>
+    </task>
+    <task id="LOCAL-00018" summary="easy 10">
+      <created>1551758374682</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1551758374682</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 00m 39s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="SurfaceAreaof3DShapesTest_test1 - 2019.03.05 at 16h 50m 00s.xml">
+      <configuration name="SurfaceAreaof3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 04m 44s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="SurfaceAreaof3DShapesTest_test1 - 2019.03.05 at 16h 50m 07s.xml">
+      <configuration name="SurfaceAreaof3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 04m 48s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="SurfaceAreaof3DShapesTest_test1 - 2019.03.05 at 16h 51m 32s.xml">
+      <configuration name="SurfaceAreaof3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 09m 03s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="SurfaceAreaof3DShapesTest_test1 - 2019.03.05 at 16h 52m 09s.xml">
+      <configuration name="SurfaceAreaof3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 10m 13s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="ProjectionAreaOf3DShapesTest_test1 - 2019.03.05 at 17h 08m 03s.xml">
+      <configuration name="ProjectionAreaOf3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 15m 11s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="ProjectionAreaOf3DShapesTest_test1 - 2019.03.05 at 17h 10m 43s.xml">
+      <configuration name="ProjectionAreaOf3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 15m 14s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="ProjectionAreaOf3DShapesTest_test1 - 2019.03.05 at 17h 10m 47s.xml">
+      <configuration name="ProjectionAreaOf3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 21m 06s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="ProjectionAreaOf3DShapesTest_test1 - 2019.03.05 at 17h 13m 13s.xml">
+      <configuration name="ProjectionAreaOf3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 23m 58s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="ProjectionAreaOf3DShapesTest_test1 - 2019.03.05 at 17h 16m 29s.xml">
+      <configuration name="ProjectionAreaOf3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RottingOrangesTest_test1 - 2019.03.05 at 13h 24m 34s.xml">
-      <configuration name="RottingOrangesTest.test1" configurationId="JUnit" />
+    <history-entry file="ProjectionAreaOf3DShapesTest_test1 - 2019.03.05 at 17h 24m 35s.xml">
+      <configuration name="ProjectionAreaOf3DShapesTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92011000" />
+    <option name="totallyTimeSpent" value="98396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47248578" visible="true" weight="0.2746781" />
-      <window_info id="Structure" order="1" sideWeight="0.5275142" side_tool="true" visible="true" weight="0.2746781" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46850392" visible="true" weight="0.27825466" />
+      <window_info id="Structure" order="1" sideWeight="0.53149605" side_tool="true" visible="true" weight="0.27825466" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -746,8 +795,8 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32866243" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35286623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32866243" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35286623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -922,37 +971,6 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java</url>
-          <line>67</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <condition expression="old" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/easy/e0997findthetownjudge/FindTheTownJudgeTest.java</url>
           <line>32</line>
           <properties />
@@ -1102,14 +1120,38 @@
           <properties />
           <option name="timeStamp" value="165" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e0953verifyinganaliendictionary/VerifyingAnAlienDictionary.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e0892surfaceareaof3dshapes/SurfaceAreaof3DShapesTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e0883projectionareaof3dshapes/ProjectionAreaOf3DShapesTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0883projectionareaof3dshapes/Solution.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="count[3]==N-1" language="JAVA" />
-        <watch expression="sum[3]==expSum-3" language="JAVA" />
-        <watch expression="nameChars[namePointer]" language="JAVA" />
-        <watch expression="typedChars[typedPointer]" language="JAVA" />
+        <watch expression="grid[0][i]" language="JAVA" />
+        <watch expression="grid[n - 1][i]" language="JAVA" />
+        <watch expression="grid[i][0]" language="JAVA" />
+        <watch expression="grid[i][n - 1]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1137,6 +1179,26 @@
       </expression>
     </expressions>
     <expressions id="watch">
+      <expression>
+        <expression-string>grid[i][n - 1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>grid[i][0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>grid[n - 1][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>grid[0][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>typedChars[typedPointer]</expression-string>
         <language-id>JAVA</language-id>
@@ -1167,190 +1229,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>oldChars[frontEnd]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>oldChars[frontStart]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>wChars[start + j]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>pChars[j]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0949largesttimeforgivendigits/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0937reorderlogfiles/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0999availablecapturesforrook/AvailableCapturesforRookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0941validmountainarray/ValidMountainArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/TestSuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e1002findcommoncharacters/FindCommonCharactersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e1002findcommoncharacters/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0999availablecapturesforrook/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e1002findcommoncharacters/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0933numberofrecentcalls/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="354">
-            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0933numberofrecentcalls/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0933numberofrecentcalls/NumberOfRecentCalls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0942idstringmatch/IDStringMatchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0942idstringmatch/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0941validmountainarray/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-56" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0942idstringmatch/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="354">
-            <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0942idstringmatch/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1365,14 +1246,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0917reverseonlyletters/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1629,17 +1502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0994rottingoranges/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2763">
-          <caret line="226" column="32" lean-forward="true" selection-start-line="226" selection-start-column="32" selection-end-line="226" selection-end-column="32" />
-          <folding>
-            <element signature="e#12899#12900#0" expanded="true" />
-            <element signature="e#12976#12977#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/easy/e0994rottingoranges/solution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1657,6 +1519,184 @@
             <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0994rottingoranges/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="231" column="12" selection-start-line="231" selection-start-column="12" selection-end-line="231" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0917reverseonlyletters/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="34" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0917reverseonlyletters/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0917reverseonlyletters/ReverseOnlyLettersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0953verifyinganaliendictionary/VerifyingAnAlienDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0953verifyinganaliendictionary/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0953verifyinganaliendictionary/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0953verifyinganaliendictionary/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="441">
+            <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0917reverseonlyletters/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0914xofakindinadeckofcards/XofAKindInaDeckofCardsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0914xofakindinadeckofcards/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0914xofakindinadeckofcards/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="309">
+            <caret line="46" selection-start-line="46" selection-end-line="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="95" selection-start-line="1" selection-start-column="95" selection-end-line="1" selection-end-column="95" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0892surfaceareaof3dshapes/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0892surfaceareaof3dshapes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0892surfaceareaof3dshapes/SurfaceAreaof3DShapesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0883projectionareaof3dshapes/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="369">
+            <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0883projectionareaof3dshapes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0883projectionareaof3dshapes/ProjectionAreaOf3DShapesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -11,11 +11,11 @@ public class Solution {
         int h = haystack.length();
         int n = needle.length();
 
-        if((h==0&&n==0)||(h>0&&n==0)){
+        if(n==0){
             return 0;
         }
 
-        if((h==0&&n>0)||(h == 0||h < n)){
+        if((h == 0 || h < n)){
             return -1;
         }
 

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="easy 14">
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0501findmodeinbinarysearchtree/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0501findmodeinbinarysearchtree/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0501findmodeinbinarysearchtree/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0501findmodeinbinarysearchtree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0501findmodeinbinarysearchtree/FindModeinBinarySearchTreeTest.java" afterDir="false" />
+    <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="easy 16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0136singlenumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0136singlenumber/SingleNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,50 +16,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leetcode2$MaximumSubarrayTest_test1.ic" NAME="MaximumSubarrayTest.test1 Coverage Results" MODIFIED="1534823129814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0053maximumsubarray.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$RomanToIntegerTest_test1.ic" NAME="RomanToIntegerTest.test1 Coverage Results" MODIFIED="1534223233723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e00013romantointeger.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$PalindromeNumberTest_test1.ic" NAME="PalindromeNumberTest.test1 Coverage Results" MODIFIED="1534222680628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0009palindromenumber.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$TwoSumTest_test1.ic" NAME="TwoSumTest.test1 Coverage Results" MODIFIED="1534220982755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0001twosum.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$TestSuit.ic" NAME="TestSuit Coverage Results" MODIFIED="1534299222593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$ImplementStrStrTest_test1.ic" NAME="ImplementStrStrTest.test1 Coverage Results" MODIFIED="1534296783356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0028implementstrstr.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$ReverseIntegerTest_test1.ic" NAME="ReverseIntegerTest.test1 Coverage Results" MODIFIED="1534221005320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0007reverseinteger.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$RemoveDuplicatesFromSortedArrayTest_test1.ic" NAME="RemoveDuplicatesFromSortedArrayTest.test1 Coverage Results" MODIFIED="1534294061058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0026removeduplicatesfromsortedarray.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$CountandSayTest_test1.ic" NAME="CountandSayTest.test1 Coverage Results" MODIFIED="1534299080002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0038countandsay.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$ValidParenthesesTest_test1.ic" NAME="ValidParenthesesTest.test1 Coverage Results" MODIFIED="1534229504688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0020validparentheses.s01.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode2$SearchInsertPositionTest_test1.ic" NAME="SearchInsertPositionTest.test1 Coverage Results" MODIFIED="1534297471773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>easy.e0035searchinsertposition.s01.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$MergeTwoSortedListsTest_test1.ic" NAME="MergeTwoSortedListsTest.test1 Coverage Results" MODIFIED="1534292903747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0021mergetwosortedlists.s01.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$LongestCommonPrefixTest_test1.ic" NAME="LongestCommonPrefixTest.test1 Coverage Results" MODIFIED="1534226412781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0014longestcommonprefix.s01.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$TwoSumTest_test1.ic" NAME="TwoSumTest.test1 Coverage Results" MODIFIED="1534220982755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0001twosum.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$PalindromeNumberTest_test1.ic" NAME="PalindromeNumberTest.test1 Coverage Results" MODIFIED="1534222680628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0009palindromenumber.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$CountandSayTest_test1.ic" NAME="CountandSayTest.test1 Coverage Results" MODIFIED="1534299080002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0038countandsay.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$RemoveDuplicatesFromSortedArrayTest_test1.ic" NAME="RemoveDuplicatesFromSortedArrayTest.test1 Coverage Results" MODIFIED="1534294061058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0026removeduplicatesfromsortedarray.s01.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$RemoveElementTest_test1.ic" NAME="RemoveElementTest.test1 Coverage Results" MODIFIED="1534294508065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0027removeelement.s01.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$ImplementStrStrTest_test1.ic" NAME="ImplementStrStrTest.test1 Coverage Results" MODIFIED="1534296783356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0028implementstrstr.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$TestSuit.ic" NAME="TestSuit Coverage Results" MODIFIED="1534299222593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$ValidParenthesesTest_test1.ic" NAME="ValidParenthesesTest.test1 Coverage Results" MODIFIED="1534229504688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0020validparentheses.s01.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/leetcode2$ReverseOnlyLettersTest_test1.ic" NAME="ReverseOnlyLettersTest.test1 Coverage Results" MODIFIED="1550816388058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>easy.e0917reverseonlyletters.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$SearchInsertPositionTest_test1.ic" NAME="SearchInsertPositionTest.test1 Coverage Results" MODIFIED="1534297471773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0035searchinsertposition.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$MaximumSubarrayTest_test1.ic" NAME="MaximumSubarrayTest.test1 Coverage Results" MODIFIED="1534823129814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0053maximumsubarray.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$RomanToIntegerTest_test1.ic" NAME="RomanToIntegerTest.test1 Coverage Results" MODIFIED="1534223233723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e00013romantointeger.s01.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode2$ReverseIntegerTest_test1.ic" NAME="ReverseIntegerTest.test1 Coverage Results" MODIFIED="1534221005320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>easy.e0007reverseinteger.s01.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageOptionsProvider">
@@ -71,7 +69,17 @@
     <option name="myElementSize" value="361" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0136singlenumber/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -104,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/easy/e0345reversevowelsofastring/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0345reversevowelsofastring/description.md" />
         <option value="$PROJECT_DIR$/src/test/java/easy/e367validperfectsquare/ValidPerfectSquareTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e367validperfectsquare/Solution.java" />
@@ -155,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/main/java/easy/e0501findmodeinbinarysearchtree/Solution.java" />
         <option value="$PROJECT_DIR$/docs/easy/e0501findmodeinbinarysearchtree/solution.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0501findmodeinbinarysearchtree/description.md" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0136singlenumber/Solution.java" />
       </list>
     </option>
   </component>
@@ -166,9 +174,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -198,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -442,12 +450,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552044716668" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552462198478" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -638,6 +647,8 @@
       <workItem from="1551942561800" duration="26000" />
       <workItem from="1551998940218" duration="12395000" />
       <workItem from="1552193935510" duration="138000" />
+      <workItem from="1552461741313" duration="364000" />
+      <workItem from="1552462133453" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -829,13 +840,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139778000" />
+    <option name="totallyTimeSpent" value="140206000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46242037" visible="true" weight="0.29256082" />
-      <window_info id="Structure" order="1" sideWeight="0.5375796" side_tool="true" visible="true" weight="0.29256082" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45933014" visible="true" weight="0.29904053" />
+      <window_info id="Structure" order="1" sideWeight="0.54066986" side_tool="true" visible="true" weight="0.29904053" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -844,16 +856,16 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32866243" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32738853" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32738853" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35159236" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3279743" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.3279743" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32866243" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3279743" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -938,7 +950,8 @@
     <MESSAGE value="easy 12" />
     <MESSAGE value="easy 13" />
     <MESSAGE value="easy 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="easy 14" />
+    <MESSAGE value="easy 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy 16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1511,16 +1524,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e367validperfectsquare/ValidPerfectSquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/easy/e367validperfectsquare/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1983,6 +1986,13 @@
             <caret line="31" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0136singlenumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>

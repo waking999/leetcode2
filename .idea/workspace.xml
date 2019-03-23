@@ -2,38 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0581shortestunsortedcontinuoussubarray/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0581shortestunsortedcontinuoussubarray/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0581shortestunsortedcontinuoussubarray/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0589narytreepreordertraversal/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0589narytreepreordertraversal/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0589narytreepreordertraversal/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0590narytreepostordertraversal/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0590narytreepostordertraversal/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0590narytreepostordertraversal/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0594longestharmonioussubsequence/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0594longestharmonioussubsequence/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0594longestharmonioussubsequence/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0599minimumindexsumoftwolists/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0599minimumindexsumoftwolists/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0599minimumindexsumoftwolists/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0581shortestunsortedcontinuoussubarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0589narytreepreordertraversal/s01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0589narytreepreordertraversal/s02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0590narytreepostordertraversal/s01/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0590narytreepostordertraversal/s02/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0594longestharmonioussubsequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0599minimumindexsumoftwolists/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0581shortestunsortedcontinuoussubarray/ShortestUnsortedContinuousSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0589narytreepreordertraversal/s01/NaryTreePreorderTraversalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0589narytreepreordertraversal/s02/NaryTreePreorderTraversalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0590narytreepostordertraversal/s01/NaryTreePostorderTraversalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0590narytreepostordertraversal/s02/NaryTreePostorderTraversalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0594longestharmonioussubsequence/LongestHarmoniousSubsequenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0599minimumindexsumoftwolists/MinimumIndexSumofTwoListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0617mergetwobinarytrees/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0617mergetwobinarytrees/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0617mergetwobinarytrees/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0617mergetwobinarytrees/MergeTwoBinaryTreesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/NaryTree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,62 +72,7 @@
     <option name="myElementSize" value="361" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0599minimumindexsumoftwolists/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0599minimumindexsumoftwolists/description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="544">
-                <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/easy/e0599minimumindexsumoftwolists/solution.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0599minimumindexsumoftwolists/MinimumIndexSumofTwoListsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="136" selection-start-line="136" selection-end-line="136" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -169,6 +89,7 @@
       <find>&quot;</find>
       <find>Output:</find>
       <find>],[</find>
+      <find>u</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -185,10 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/easy/e1005maximizesumofarrayafterknegations/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e1005maximizesumofarrayafterknegations/MaximizeSumOfArrayAfterKNegationsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e1005maximizesumofarrayafterknegations/Solution.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e1005maximizesumofarrayafterknegations/solution.md" />
         <option value="$PROJECT_DIR$/src/test/java/easy/e0541reversestringii/ReverseStringIITest.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0541reversestringii/Solution.java" />
         <option value="$PROJECT_DIR$/docs/easy/e0541reversestringii/description.md" />
@@ -236,6 +153,10 @@
         <option value="$PROJECT_DIR$/src/main/java/easy/e0599minimumindexsumoftwolists/Solution.java" />
         <option value="$PROJECT_DIR$/docs/easy/e0599minimumindexsumoftwolists/description.md" />
         <option value="$PROJECT_DIR$/docs/easy/e0599minimumindexsumoftwolists/solution.md" />
+        <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0617mergetwobinarytrees/MergeTwoBinaryTreesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0617mergetwobinarytrees/description.md" />
       </list>
     </option>
   </component>
@@ -280,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,33 +212,6 @@
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0590narytreepostordertraversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0599minimumindexsumoftwolists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e1005maximizesumofarrayafterknegations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -520,6 +413,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="e0617mergetwobinarytrees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="e0883projectionareaof3dshapes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -589,13 +491,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553236081042" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553324003783" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -624,11 +527,11 @@
       <recent name="common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0617mergetwobinarytrees" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0599minimumindexsumoftwolists" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0594longestharmonioussubsequence" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0589narytreepreordertraversal" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0590narytreepostordertraversal" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0581shortestunsortedcontinuoussubarray" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="easy.e0589narytreepreordertraversal.s01" />
@@ -653,7 +556,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MinimumIndexSumofTwoListsTest.test1">
+  <component name="RunManager" selected="JUnit.MergeTwoBinaryTreesTest.test1">
     <configuration name="LongestHarmoniousSubsequenceTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
@@ -664,6 +567,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="easy.e0594longestharmonioussubsequence" />
       <option name="MAIN_CLASS_NAME" value="easy.e0594longestharmonioussubsequence.LongestHarmoniousSubsequenceTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoBinaryTreesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.e0617mergetwobinarytrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.e0617mergetwobinarytrees" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0617mergetwobinarytrees.MergeTwoBinaryTreesTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -717,36 +636,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaryTreePreorderTraversalTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.e0589narytreepreordertraversal.s01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy.e0589narytreepreordertraversal.s01" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0589narytreepreordertraversal.s01.NaryTreePreorderTraversalTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.NaryTreePreorderTraversalTest.test1" />
       <item itemvalue="JUnit.NaryTreePreorderTraversalTest" />
       <item itemvalue="JUnit.NaryTreePreorderTraversalTest.test1 (1)" />
       <item itemvalue="JUnit.LongestHarmoniousSubsequenceTest.test1" />
       <item itemvalue="JUnit.MinimumIndexSumofTwoListsTest.test1" />
+      <item itemvalue="JUnit.MergeTwoBinaryTreesTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MergeTwoBinaryTreesTest.test1" />
         <item itemvalue="JUnit.MinimumIndexSumofTwoListsTest.test1" />
         <item itemvalue="JUnit.LongestHarmoniousSubsequenceTest.test1" />
         <item itemvalue="JUnit.NaryTreePreorderTraversalTest.test1 (1)" />
         <item itemvalue="JUnit.NaryTreePreorderTraversalTest" />
-        <item itemvalue="JUnit.NaryTreePreorderTraversalTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -794,7 +697,8 @@
       <workItem from="1553038489670" duration="1197000" />
       <workItem from="1553123199635" duration="605000" />
       <workItem from="1553140196092" duration="8626000" />
-      <workItem from="1553210295804" duration="19886000" />
+      <workItem from="1553210295804" duration="19941000" />
+      <workItem from="1553314513534" duration="2704000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -971,50 +875,56 @@
       <option name="project" value="LOCAL" />
       <updated>1553227145225</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="easy 18">
+      <created>1553236101886</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1553236101886</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 39m 41s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 43m 15s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 47m 28s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 48m 06s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 49m 05s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 51m 23s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 53m 31s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 55m 21s.xml">
-      <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 56m 17s.xml">
       <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MinimumIndexSumofTwoListsTest_test1 - 2019.03.22 at 15h 56m 24s.xml">
       <configuration name="MinimumIndexSumofTwoListsTest.test1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 15h 58m 34s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 16h 03m 47s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 16h 05m 35s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 16h 09m 50s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 16h 13m 29s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 16h 13m 35s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 16h 14m 22s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeTwoBinaryTreesTest_test1 - 2019.03.23 at 16h 14m 40s.xml">
+      <configuration name="MergeTwoBinaryTreesTest.test1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171641000" />
+    <option name="totallyTimeSpent" value="174400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45382166" visible="true" weight="0.31503198" />
-      <window_info id="Structure" order="1" sideWeight="0.54617834" side_tool="true" visible="true" weight="0.31503198" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4522293" visible="true" weight="0.31823027" />
+      <window_info id="Structure" order="1" sideWeight="0.5477707" side_tool="true" visible="true" weight="0.31823027" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1726,6 +1636,36 @@
           <properties />
           <option name="timeStamp" value="296" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1812,57 +1752,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0541reversestringii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="67" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0541reversestringii/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0543diameterofbinarytree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0543diameterofbinarytree/DiameterofBinaryTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0543diameterofbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0543diameterofbinarytree/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0551studentattendancerecordi/StudentAttendanceRecordITest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -2242,7 +2131,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0599minimumindexsumoftwolists/MinimumIndexSumofTwoListsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
+        <state relative-caret-position="291">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2273,6 +2162,55 @@
           <first_editor relative-caret-position="51">
             <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0617mergetwobinarytrees/MergeTwoBinaryTreesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0617mergetwobinarytrees/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0617mergetwobinarytrees/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="476">
+            <caret line="28" selection-start-line="28" selection-end-line="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0617mergetwobinarytrees/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>

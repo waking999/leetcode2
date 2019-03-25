@@ -1,30 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="easy 20">
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0687longestunivaluepath/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0687longestunivaluepath/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0687longestunivaluepath/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0747largestnumberatleasttwiceofothers/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0747largestnumberatleasttwiceofothers/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0747largestnumberatleasttwiceofothers/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0748shortestcompletingword/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0748shortestcompletingword/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0748shortestcompletingword/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0762primenumberofsetbitsinbinaryrepresentation/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0762primenumberofsetbitsinbinaryrepresentation/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/easy/e0762primenumberofsetbitsinbinaryrepresentation/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0687longestunivaluepath/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0747largestnumberatleasttwiceofothers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0748shortestcompletingword/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0762primenumberofsetbitsinbinaryrepresentation/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0819mostcommonword/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0687longestunivaluepath/LongestUnivaluePathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0747largestnumberatleasttwiceofothers/LargestNumberAtLeastTwiceofOthersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0748shortestcompletingword/ShortestCompletingWordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0762primenumberofsetbitsinbinaryrepresentation/PrimeNumberofSetBitsinBinaryRepresentationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0819mostcommonword/MostCommonWordTest.java" afterDir="false" />
+    <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0840magicsquaresingrid/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0840magicsquaresingrid/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0840magicsquaresingrid/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0860lemonadechange/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0860lemonadechange/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e0860lemonadechange/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e1020partitionarrayintothreepartswithequalsum/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e1020partitionarrayintothreepartswithequalsum/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/easy/e1020partitionarrayintothreepartswithequalsum/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0024swapnodesinpairs/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0024swapnodesinpairs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0024swapnodesinpairs/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0050powxn/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0050powxn/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0050powxn/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0779kthsymbolingrammar/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0779kthsymbolingrammar/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0779kthsymbolingrammar/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0840magicsquaresingrid/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e0860lemonadechange/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/e1020partitionarrayintothreepartswithequalsum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0024swapnodesinpairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0050powxn/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0095uniquebinarysearchtreesii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0779kthsymbolingrammar/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0840magicsquaresingrid/MagicSquaresInGridTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e0860lemonadechange/LemonadeChangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/e1020partitionarrayintothreepartswithequalsum/PartitionArrayIntoThreePartsWithEqualSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0024swapnodesinpairs/SwapNodesinPairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0050powxn/PowexnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0095uniquebinarysearchtreesii/UniqueBinarySearchTreesIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0779kthsymbolingrammar/KthSymbolInGrammarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/common/VerifyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/common/VerifyUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -88,12 +99,33 @@
     <option name="myElementSize" value="361" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0687longestunivaluepath/LongestUnivaluePathTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0095uniquebinarysearchtreesii/UniqueBinarySearchTreesIITest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+            <state relative-caret-position="224">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="77" column="48" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0095uniquebinarysearchtreesii/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,15 +150,16 @@
       <find>&quot;</find>
       <find>Output:</find>
       <find>u</find>
-      <find>],</find>
       <find>],[</find>
       <find>boolean</find>
+      <find>],</find>
+      <find>map</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
       <replace>expect=</replace>
-      <replace>},</replace>
       <replace>},{</replace>
+      <replace>},</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -138,36 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/easy/e0707designlinkedlist/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0706designhashmap/DesignHashMapTest.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0706designhashmap/solution.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0706designhashmap/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0705designhashset/DesignHashSetTest.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0705designhashset/solution.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0705designhashset/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0703kthlargestelementinastream/KthLargestElementinaStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/KthLargest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0703kthlargestelementinastream/s02/KthLargestElementinaStreamTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0703kthlargestelementinastream/s03/KthLargestElementinaStreamTest.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0703kthlargestelementinastream/solution.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0703kthlargestelementinastream/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0628maximumproductofyhreenumbers/MaximumProductofThreeNumbersTest.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0628maximumproductofyhreenumbers/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0633sumofsquarenumbers/SumofSquareNumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0633sumofsquarenumbers/Solution.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0633sumofsquarenumbers/description.md" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0637averageoflevelsinbinarytree/AverageofLevelsinBinaryTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0637averageoflevelsinbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0637averageoflevelsinbinarytree/description.md" />
-        <option value="$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/test/java/easy/e0653twosumivinputisabst/TwoSumIVInputisaBSTTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0653twosumivinputisabst/Solution.java" />
-        <option value="$PROJECT_DIR$/docs/easy/e0653twosumivinputisabst/description.md" />
-        <option value="$PROJECT_DIR$/docs/easy/e0653twosumivinputisabst/solution.md" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0628maximumproductofyhreenumbers/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0705designhashset/MyHashSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/s03/KthLargest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0728selfdividingnumbers/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0706designhashmap/MyHashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/s01/KthLargest.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/s02/KthLargest.java" />
@@ -189,6 +192,36 @@
         <option value="$PROJECT_DIR$/src/test/java/easy/e0819mostcommonword/MostCommonWordTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/easy/e0819mostcommonword/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/easy/e0687longestunivaluepath/LongestUnivaluePathTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e1020partitionarrayintothreepartswithequalsum/PartitionArrayIntoThreePartsWithEqualSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e1020partitionarrayintothreepartswithequalsum/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e1020partitionarrayintothreepartswithequalsum/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e1020partitionarrayintothreepartswithequalsum/solution.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0860lemonadechange/LemonadeChangeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0860lemonadechange/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0860lemonadechange/solution.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0860lemonadechange/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0840magicsquaresingrid/MagicSquaresInGridTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/easy/e0840magicsquaresingrid/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/easy/e0840magicsquaresingrid/description.md" />
+        <option value="$PROJECT_DIR$/docs/easy/e0840magicsquaresingrid/solution.md" />
+        <option value="$PROJECT_DIR$/src/test/java/exercise/swapnodesinpairs/SwapNodesinPairsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercise/swapnodesinpairs/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0024swapnodesinpairs/SwapNodesinPairsTest.java" />
+        <option value="$PROJECT_DIR$/docs/medium/m0024swapnodesinpairs/description.md" />
+        <option value="$PROJECT_DIR$/docs/medium/m0024swapnodesinpairs/solution.md" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0050powxn/PowexnTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0050powxn/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/medium/m0050powxn/solution.md" />
+        <option value="$PROJECT_DIR$/docs/medium/m0050powxn/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/e0779kthsymbolingrammar/KthSymbolInGrammarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/e0779kthsymbolingrammar/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0779kthsymbolingrammar/KthSymbolInGrammarTest.java" />
+        <option value="$PROJECT_DIR$/docs/medium/m0779kthsymbolingrammar/solution.md" />
+        <option value="$PROJECT_DIR$/docs/medium/m0779kthsymbolingrammar/description.md" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0779kthsymbolingrammar/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0095uniquebinarysearchtreesii/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0095uniquebinarysearchtreesii/UniqueBinarySearchTreesIITest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/common/VerifyUtil.java" />
       </list>
     </option>
   </component>
@@ -233,8 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,14 +282,21 @@
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0703kthlargestelementinastream" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="m0779kthsymbolingrammar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="m0889constructbinarytreefrompreorderandpostordertraversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +322,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="m0779kthsymbolingrammar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -305,7 +352,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -313,19 +360,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="e0762primenumberofsetbitsinbinaryrepresentation" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="m0095uniquebinarysearchtreesii" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553432117621" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553497260263" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -349,16 +398,17 @@
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="medium.m0024swapnodesinpairs" />
       <recent name="easy.e0590narytreepostordertraversal.s01" />
       <recent name="easy.e0476bumbercomplement" />
       <recent name="common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0762primenumberofsetbitsinbinaryrepresentation" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0748shortestcompletingword" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0747largestnumberatleasttwiceofothers" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0687longestunivaluepath" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0653twosumivinputisabst" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\e0779kthsymbolingrammar" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0050powxn" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0024swapnodesinpairs" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0840magicsquaresingrid" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0860lemonadechange" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="easy.e0703kthlargestelementinastream.s03" />
@@ -383,80 +433,80 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeNumberofSetBitsinBinaryRepresentationTest.test1">
-    <configuration name="DesignLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UniqueBinarySearchTreesIITest.test1">
+    <configuration name="KthSymbolInGrammarTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0707designlinkedlist.*" />
+          <option name="PATTERN" value="medium.m0779kthsymbolingrammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0707designlinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0707designlinkedlist.DesignLinkedListTest" />
+      <option name="PACKAGE_NAME" value="medium.m0779kthsymbolingrammar" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0779kthsymbolingrammar.KthSymbolInGrammarTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSquaresInGridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.e0840magicsquaresingrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy.e0840magicsquaresingrid" />
+      <option name="MAIN_CLASS_NAME" value="easy.e0840magicsquaresingrid.MagicSquaresInGridTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumberAtLeastTwiceofOthersTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PowexnTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0747largestnumberatleasttwiceofothers.*" />
+          <option name="PATTERN" value="medium.m0050powxn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0747largestnumberatleasttwiceofothers" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0747largestnumberatleasttwiceofothers.LargestNumberAtLeastTwiceofOthersTest" />
+      <option name="PACKAGE_NAME" value="medium.m0050powxn" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0050powxn.PowexnTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestUnivaluePathTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SwapNodesinPairsTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0687longestunivaluepath.*" />
+          <option name="PATTERN" value="medium.m0024swapnodesinpairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0687longestunivaluepath" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0687longestunivaluepath.LongestUnivaluePathTest" />
+      <option name="PACKAGE_NAME" value="medium.m0024swapnodesinpairs" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0024swapnodesinpairs.SwapNodesinPairsTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumberofSetBitsinBinaryRepresentationTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UniqueBinarySearchTreesIITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e0762primenumberofsetbitsinbinaryrepresentation.*" />
+          <option name="PATTERN" value="medium.m0095uniquebinarysearchtreesii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e0762primenumberofsetbitsinbinaryrepresentation" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0762primenumberofsetbitsinbinaryrepresentation.PrimeNumberofSetBitsinBinaryRepresentationTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShortestCompletingWordTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.e0748shortestcompletingword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="easy.e0748shortestcompletingword" />
-      <option name="MAIN_CLASS_NAME" value="easy.e0748shortestcompletingword.ShortestCompletingWordTest" />
+      <option name="PACKAGE_NAME" value="medium.m0095uniquebinarysearchtreesii" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0095uniquebinarysearchtreesii.UniqueBinarySearchTreesIITest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -464,19 +514,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DesignLinkedListTest" />
-      <item itemvalue="JUnit.LongestUnivaluePathTest.test1" />
-      <item itemvalue="JUnit.LargestNumberAtLeastTwiceofOthersTest.test1" />
-      <item itemvalue="JUnit.ShortestCompletingWordTest.test1" />
-      <item itemvalue="JUnit.PrimeNumberofSetBitsinBinaryRepresentationTest.test1" />
+      <item itemvalue="JUnit.MagicSquaresInGridTest" />
+      <item itemvalue="JUnit.SwapNodesinPairsTest.test1" />
+      <item itemvalue="JUnit.PowexnTest.test1" />
+      <item itemvalue="JUnit.KthSymbolInGrammarTest.test1" />
+      <item itemvalue="JUnit.UniqueBinarySearchTreesIITest.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrimeNumberofSetBitsinBinaryRepresentationTest.test1" />
-        <item itemvalue="JUnit.ShortestCompletingWordTest.test1" />
-        <item itemvalue="JUnit.LargestNumberAtLeastTwiceofOthersTest.test1" />
-        <item itemvalue="JUnit.LongestUnivaluePathTest.test1" />
-        <item itemvalue="JUnit.DesignLinkedListTest" />
+        <item itemvalue="JUnit.UniqueBinarySearchTreesIITest.test1" />
+        <item itemvalue="JUnit.KthSymbolInGrammarTest.test1" />
+        <item itemvalue="JUnit.PowexnTest.test1" />
+        <item itemvalue="JUnit.SwapNodesinPairsTest.test1" />
+        <item itemvalue="JUnit.MagicSquaresInGridTest" />
       </list>
     </recent_temporary>
   </component>
@@ -526,7 +576,8 @@
       <workItem from="1553140196092" duration="8626000" />
       <workItem from="1553210295804" duration="19941000" />
       <workItem from="1553314513534" duration="2982000" />
-      <workItem from="1553384905340" duration="23112000" />
+      <workItem from="1553384905340" duration="23291000" />
+      <workItem from="1553474796675" duration="15345000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -724,71 +775,78 @@
       <option name="project" value="LOCAL" />
       <updated>1553411606560</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="easy 20">
+      <created>1553432126488</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1553432126488</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LargestNumberAtLeastTwiceofOthersTest_test1 - 2019.03.24 at 20h 51m 15s.xml">
-      <configuration name="LargestNumberAtLeastTwiceofOthersTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 10m 42s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestNumberAtLeastTwiceofOthersTest_test1 - 2019.03.24 at 20h 51m 34s.xml">
-      <configuration name="LargestNumberAtLeastTwiceofOthersTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 11m 11s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LargestNumberAtLeastTwiceofOthersTest_test1 - 2019.03.24 at 20h 52m 23s.xml">
-      <configuration name="LargestNumberAtLeastTwiceofOthersTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 13m 26s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShortestCompletingWordTest_test1 - 2019.03.24 at 20h 59m 33s.xml">
-      <configuration name="ShortestCompletingWordTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 13m 40s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShortestCompletingWordTest_test1 - 2019.03.24 at 21h 03m 53s.xml">
-      <configuration name="ShortestCompletingWordTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 16m 25s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShortestCompletingWordTest_test1 - 2019.03.24 at 21h 04m 40s.xml">
-      <configuration name="ShortestCompletingWordTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 17m 01s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShortestCompletingWordTest_test1 - 2019.03.24 at 21h 06m 35s.xml">
-      <configuration name="ShortestCompletingWordTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 22m 25s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShortestCompletingWordTest_test1 - 2019.03.24 at 21h 06m 51s.xml">
-      <configuration name="ShortestCompletingWordTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 22m 29s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimeNumberofSetBitsinBinaryRepresentationTest_test1 - 2019.03.24 at 21h 15m 33s.xml">
-      <configuration name="PrimeNumberofSetBitsinBinaryRepresentationTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 24m 16s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimeNumberofSetBitsinBinaryRepresentationTest_test1 - 2019.03.24 at 21h 15m 47s.xml">
-      <configuration name="PrimeNumberofSetBitsinBinaryRepresentationTest.test1" configurationId="JUnit" />
+    <history-entry file="UniqueBinarySearchTreesIITest_test1 - 2019.03.25 at 16h 27m 29s.xml">
+      <configuration name="UniqueBinarySearchTreesIITest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197790000" />
+    <option name="totallyTimeSpent" value="213314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45135567" visible="true" weight="0.3219616" />
-      <window_info id="Structure" order="1" sideWeight="0.54864436" side_tool="true" visible="true" weight="0.3219616" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.44833067" visible="true" weight="0.32569295" />
+      <window_info id="Structure" order="1" sideWeight="0.5516693" side_tool="true" visible="true" weight="0.32569295" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Learn" order="7" />
-      <window_info anchor="bottom" id="Duplicate detector" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32866243" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32583067" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3279743" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32583067" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35155413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.3279743" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3279743" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3279743" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.3290461" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1554,6 +1612,36 @@
           <properties />
           <option name="timeStamp" value="358" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e1020partitionarrayintothreepartswithequalsum/PartitionArrayIntoThreePartsWithEqualSumTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e1020partitionarrayintothreepartswithequalsum/PartitionArrayIntoThreePartsWithEqualSumTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e1020partitionarrayintothreepartswithequalsum/PartitionArrayIntoThreePartsWithEqualSumTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/easy/e1020partitionarrayintothreepartswithequalsum/PartitionArrayIntoThreePartsWithEqualSumTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/e1020partitionarrayintothreepartswithequalsum/Solution.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1562,6 +1650,8 @@
         <watch expression="A[i]" language="JAVA" />
         <watch expression="Math.abs(expect[i] - output.get(i)) &lt; DIFF" language="JAVA" />
         <watch expression="getProduct(word)" language="JAVA" />
+        <watch expression="lToRSum[lToRStart]" language="JAVA" />
+        <watch expression="sb.charAt(K-1)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1589,6 +1679,16 @@
       </expression>
     </expressions>
     <expressions id="watch">
+      <expression>
+        <expression-string>sb.charAt(K-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lToRSum[lToRStart]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>getProduct(word)</expression-string>
         <language-id>JAVA</language-id>
@@ -1629,283 +1729,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>grid[i][0]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>grid[n - 1][i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0705designhashset/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-RC1/junit-platform-commons-1.3.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0703kthlargestelementinastream/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0703kthlargestelementinastream/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0628maximumproductofyhreenumbers/MaximumProductofThreeNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0628maximumproductofyhreenumbers/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0633sumofsquarenumbers/SumofSquareNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0633sumofsquarenumbers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0633sumofsquarenumbers/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0637averageoflevelsinbinarytree/AverageofLevelsinBinaryTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0637averageoflevelsinbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0637averageoflevelsinbinarytree/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="357">
-            <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="302" column="33" lean-forward="true" selection-start-line="302" selection-start-column="33" selection-end-line="302" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/BinarySearchTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0653twosumivinputisabst/TwoSumIVInputisaBSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0653twosumivinputisabst/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0653twosumivinputisabst/description.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="544">
-            <caret line="32" selection-start-line="32" selection-end-line="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/easy/e0653twosumivinputisabst/solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0628maximumproductofyhreenumbers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0705designhashset/MyHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0728selfdividingnumbers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0728selfdividingnumbers/SelfDividingNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0706designhashmap/DesignHashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0706designhashmap/MyHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/s01/KthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
-          <folding>
-            <element signature="e#2366#2367#0" expanded="true" />
-            <element signature="e#2404#2405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/s03/KthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0703kthlargestelementinastream/s01/KthLargestElementinaStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0703kthlargestelementinastream/s02/KthLargestElementinaStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0703kthlargestelementinastream/s03/KthLargestElementinaStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0707designlinkedlist/DesignLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -2068,13 +1894,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0819mostcommonword/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0819mostcommonword/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0819mostcommonword/MostCommonWordTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -2092,13 +1912,285 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e1020partitionarrayintothreepartswithequalsum/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e1020partitionarrayintothreepartswithequalsum/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="527">
+            <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e1020partitionarrayintothreepartswithequalsum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0687longestunivaluepath/LongestUnivaluePathTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        <state relative-caret-position="459">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e1020partitionarrayintothreepartswithequalsum/PartitionArrayIntoThreePartsWithEqualSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0860lemonadechange/LemonadeChangeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0860lemonadechange/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0860lemonadechange/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0860lemonadechange/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="664">
+            <caret line="50" selection-start-line="50" selection-end-line="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0840magicsquaresingrid/MagicSquaresInGridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0840magicsquaresingrid/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="119" selection-end-column="5" />
+          <folding>
+            <element signature="e#2563#2564#0" expanded="true" />
+            <element signature="e#2592#2593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0840magicsquaresingrid/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="714">
+            <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/easy/e0840magicsquaresingrid/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0024swapnodesinpairs/SwapNodesinPairsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0024swapnodesinpairs/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0024swapnodesinpairs/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0024swapnodesinpairs/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0050powxn/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0889constructbinarytreefrompreorderandpostordertraversal/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0050powxn/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0050powxn/PowexnTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0050powxn/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0779kthsymbolingrammar/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0779kthsymbolingrammar/KthSymbolInGrammarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0779kthsymbolingrammar/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="426">
+            <caret line="36" selection-start-line="36" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0779kthsymbolingrammar/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0095uniquebinarysearchtreesii/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0095uniquebinarysearchtreesii/UniqueBinarySearchTreesIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="77" column="48" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
         </state>
       </provider>
     </entry>

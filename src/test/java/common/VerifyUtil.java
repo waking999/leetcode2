@@ -56,6 +56,44 @@ public class VerifyUtil {
 
     }
 
+    public static void verifySortedOut(Integer[][] expect, List<List<Integer>> output, int seq) {
+        int expectLen = expect.length;
+        int outputSize = output.size();
+        Assertions.assertEquals(expectLen, outputSize, seq + ":wrong");
+
+        String[] expectOut = new String[expectLen];
+        String[] outputOut = new String[expectLen];
+        for (int i = 0; i < expectLen; i++) {
+            int expectInLen=expect[i].length;
+            StringBuilder sb1=new StringBuilder();
+            for(int j=0;j<expectInLen;j++){
+                if(expect[i][j]==null){
+                    sb1.append("null,");
+                }else{
+                    sb1.append(expect[i][j]).append(",");
+                }
+            }
+            expectOut[i] = sb1.toString();
+
+            int outputInLen=output.get(i).size();
+            StringBuilder sb2=new StringBuilder();
+            for(int j=0;j<outputInLen;j++){
+                if(output.get(i).get(j)==null){
+                    sb2.append("null,");
+                }else{
+                    sb2.append(output.get(i).get(j)).append(",");
+                }
+            }
+            outputOut[i] = sb2.toString();
+
+        }
+        Arrays.sort(expectOut);
+        Arrays.sort(outputOut);
+        for (int i = 0; i < expectLen; i++) {
+            Assertions.assertEquals(expectOut[i], outputOut[i], seq + ":wrong");
+        }
+
+    }
 
     public static void verifyUnsort(int[][] expect, List<List<Integer>> output, int seq) {
         int expectLen = expect.length;
@@ -90,6 +128,17 @@ public class VerifyUtil {
 
         for (int i = 0; i < expectLen; i++) {
             String expectStr = expect.get(i).stream().map(num -> Integer.toString(num)).collect(Collectors.joining(","));
+            String outputStr = output.get(i).stream().map(num -> Integer.toString(num)).collect(Collectors.joining(","));
+            Assertions.assertEquals(expectStr, outputStr, seq + ":wrong");
+        }
+    }
+    public static void verifyUnsort( Integer[][] expect, List<List<Integer>> output, int seq) {
+        int expectLen = expect.length;
+        int outputSize = output.size();
+        Assertions.assertEquals(expectLen, outputSize, seq + ":wrong");
+
+        for (int i = 0; i < expectLen; i++) {
+            String expectStr = Arrays.stream(expect[i]).map(num -> Integer.toString(num)).collect(Collectors.joining(","));
             String outputStr = output.get(i).stream().map(num -> Integer.toString(num)).collect(Collectors.joining(","));
             Assertions.assertEquals(expectStr, outputStr, seq + ":wrong");
         }

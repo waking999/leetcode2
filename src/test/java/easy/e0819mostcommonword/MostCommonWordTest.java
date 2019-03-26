@@ -26,7 +26,11 @@ public class MostCommonWordTest {
         output=s.mostCommonWord(paragraph,banned);
         VerifyUtil.verify(expect,output,seq++);
 
-
+        paragraph = "a.";
+        banned = new String[]{};
+        expect= "a";
+        output=s.mostCommonWord(paragraph,banned);
+        VerifyUtil.verify(expect,output,seq++);
 
     }
 }

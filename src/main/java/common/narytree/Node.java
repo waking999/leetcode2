@@ -1,4 +1,4 @@
-package common.NaryTree;
+package common.narytree;
 
 import java.util.ArrayList;
 import java.util.HashMap;

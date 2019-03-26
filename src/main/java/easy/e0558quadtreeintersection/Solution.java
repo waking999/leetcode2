@@ -1,6 +1,6 @@
 package easy.e0558quadtreeintersection;
 
-import common.QuadTree.Node;
+import common.quadtree.Node;
 
 public class Solution {
     public Node intersect(Node quadTree1, Node quadTree2) {

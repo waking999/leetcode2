@@ -1,6 +1,6 @@
 package easy.e0589narytreepreordertraversal.s02;
 
-import common.NaryTree.Node;
+import common.narytree.Node;
 import common.VerifyUtil;
 import org.junit.jupiter.api.Test;
 

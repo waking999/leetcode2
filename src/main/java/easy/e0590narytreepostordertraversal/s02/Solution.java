@@ -1,6 +1,6 @@
 package easy.e0590narytreepostordertraversal.s02;
 
-import common.NaryTree.Node;
+import common.narytree.Node;
 
 import java.util.*;
 
@@ -11,12 +11,12 @@ public class Solution {
             return rtn;
         }
 
-        Queue<Integer> queue = new LinkedList<>();
+        LinkedList<Integer> queue = new LinkedList<>();
         Stack<Node> stack = new Stack<>();
         stack.push(root);
         while (!stack.isEmpty()) {
             Node node = stack.pop();
-            ((LinkedList<Integer>) queue).addFirst(node.val);
+            queue.addFirst(node.val);
             List<Node> children = node.children;
             if (children != null) {
                 for (Node child : children) {
@@ -26,7 +26,7 @@ public class Solution {
         }
 
         while (!queue.isEmpty()) {
-            rtn.add(((LinkedList<Integer>) queue).pollFirst());
+            rtn.add(queue.pollFirst());
         }
 
         return rtn;

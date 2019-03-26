@@ -1,6 +1,6 @@
 package easy.e0589narytreepreordertraversal.s01;
 
-import common.NaryTree.Node;
+import common.narytree.Node;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package common.QuadTree;
+package common.quadtree;
 
 public class Node {
     public boolean val;

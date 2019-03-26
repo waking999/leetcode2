@@ -48,7 +48,27 @@ public class NormalBinaryTreeNode extends TreeNode {
         return root;
     }
 
+    private static TreeNode targetNode;
+    public static TreeNode findNode(TreeNode root, int targetVal) {
+        targetNode = null;
+        findNodeHelper(root, targetVal);
+        return targetNode;
+    }
+    private static void findNodeHelper(TreeNode node, int targetVal) {
+        if (node == null) {
+            return;
+        }
+        if (node.val == targetVal) {
+            targetNode = node;
+            return;
+        }
+        if (targetNode == null) {
+            findNodeHelper(node.left, targetVal);
+        }
+        if (targetNode == null) {
+            findNodeHelper(node.right, targetVal);
+        }
 
-
+    }
 
 }

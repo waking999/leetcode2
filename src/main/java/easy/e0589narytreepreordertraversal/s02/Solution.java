@@ -1,6 +1,6 @@
 package easy.e0589narytreepreordertraversal.s02;
 
-import common.NaryTree.Node;
+import common.narytree.Node;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -14,17 +14,17 @@ public class Solution {
             return rtn;
         }
 
-        Queue<Node> queue=new LinkedList<>();
-        ((LinkedList<Node>) queue).addFirst(root);
+        LinkedList<Node> queue=new LinkedList<>();
+        queue.addFirst(root);
         while(!queue.isEmpty()){
-            Node node=((LinkedList<Node>) queue).pollFirst();
+            Node node= queue.pollFirst();
             rtn.add(node.val);
             List<Node> children=node.children;
             if(children!=null){
                 int childrenSize=children.size();
                 for(int i=childrenSize-1;i>=0;i--){
                     Node child=children.get(i);
-                    ((LinkedList<Node>) queue).addFirst(child);
+                    queue.addFirst(child);
                 }
             }
         }

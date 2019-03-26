@@ -1,7 +1,6 @@
 package easy.e0558quadtreeintersection;
 
-import common.NormalBinaryTreeNode;
-import common.QuadTree.Node;
+import common.quadtree.Node;
 import org.junit.jupiter.api.Test;
 
 public class QuadTreeIntersectionTest {

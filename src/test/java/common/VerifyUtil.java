@@ -248,6 +248,9 @@ public class VerifyUtil {
 
 
     public static void verifyUnsort(Integer[] expect, List<Integer> output, int seq) {
+        if(expect==null&&output==null){
+            return;
+        }
         int expectLen = expect.length;
         int outputSize = output.size();
 

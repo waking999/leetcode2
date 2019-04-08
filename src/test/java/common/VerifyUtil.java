@@ -219,6 +219,8 @@ public class VerifyUtil {
         Assertions.assertEquals(expectStr, outputStr, seq + ":wrong");
     }
 
+
+
     public static void verifySort(String[] expect,List<String> output, int seq) {
 
         int expectLen = expect.length;
@@ -231,6 +233,17 @@ public class VerifyUtil {
         Assertions.assertEquals(expectStr, outputStr, seq + ":wrong");
     }
 
+
+    public static void verifyUnSort(Boolean[] expect, List<Boolean> output, int seq) {
+
+        int expectLen = expect.length;
+        int outputSize = output.size();
+        Assertions.assertEquals(expectLen, outputSize, seq + ":wrong");
+
+        String expectStr = Arrays.stream(expect).map(Object::toString).collect(Collectors.joining(","));
+        String outputStr = output.stream().map(Object::toString).collect(Collectors.joining(","));
+        Assertions.assertEquals(expectStr, outputStr, seq + ":wrong");
+    }
 
     public static void verifyUnsort(int[] expect, List<Integer> output, int seq) {
         if (expect == null && output == null) {

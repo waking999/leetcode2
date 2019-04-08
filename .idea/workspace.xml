@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="easy 28">
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0005longestpalindromicsubstring/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0005longestpalindromicsubstring/LongestPalindromicSubstringTest.java" afterDir="false" />
+    <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0006zigagconversion/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0006zigagconversion/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0006zigagconversion/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0006zigagconversion/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0006zigagconversion/ZigZagConversionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,20 +80,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0005longestpalindromicsubstring/Solution.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="476">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0005longestpalindromicsubstring/LongestPalindromicSubstringTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="306">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,13 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/medium/m0117populatingnextrightpointersineachnodeii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/m0236lowestcommonancestorofabinarytree/LowestCommonAncestorofaBinaryTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0589narytreepreordertraversal/s02/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/m0236lowestcommonancestorofabinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/easy/e0590narytreepostordertraversal/s02/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/m0102binarytreelevelordertraversal/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/test/java/hard/h0297serializeanddeserializebinarytree/SerializeandDeserializeBinaryTreeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/hard/h0297serializeanddeserializebinarytree/Codec.java" />
@@ -184,6 +185,13 @@
         <option value="$PROJECT_DIR$/src/main/java/easy/e1021removeoutermostparentheses/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/medium/m0005longestpalindromicsubstring/LongestPalindromicSubstringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/medium/m0005longestpalindromicsubstring/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0006zigagconversion/ZigZagConversionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0006zigagconversion/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/description.md" />
+        <option value="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/solution.md" />
+        <option value="$PROJECT_DIR$/docs/medium/m0006zigagconversion/description.md" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java" />
       </list>
     </option>
   </component>
@@ -243,6 +251,12 @@
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -290,7 +304,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554689658580" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554705408084" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -320,11 +334,11 @@
       <recent name="common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0005longestpalindromicsubstring" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0006zigagconversion" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e1022sumofroottoleafbinarynumbers" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e1021removeoutermostparentheses" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0690employeeimportance" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0720longestwordindictionary" />
-      <recent name="$PROJECT_DIR$/docs/easy/e0868binarygap" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="easy.e0703kthlargestelementinastream.s03" />
@@ -349,33 +363,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestPalindromicSubstringTest.test1">
-    <configuration name="BinaryPrefixDivisibleBy5Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ContainerWithMostWaterTest.test1">
+    <configuration name="ContainerWithMostWaterTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e1018binaryprefixdivisibleby5.*" />
+          <option name="PATTERN" value="medium.m0011containerwithmostwater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e1018binaryprefixdivisibleby5" />
-      <option name="MAIN_CLASS_NAME" value="easy.e1018binaryprefixdivisibleby5.BinaryPrefixDivisibleBy5Test" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecodeStringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.m0394decodestring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="medium.m0394decodestring" />
-      <option name="MAIN_CLASS_NAME" value="medium.m0394decodestring.DecodeStringTest" />
+      <option name="PACKAGE_NAME" value="medium.m0011containerwithmostwater" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0011containerwithmostwater.ContainerWithMostWaterTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -430,20 +428,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZigZagConversionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.m0006zigagconversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="medium.m0006zigagconversion" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0006zigagconversion.ZigZagConversionTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.DecodeStringTest.test1" />
-      <item itemvalue="JUnit.BinaryPrefixDivisibleBy5Test.test1" />
       <item itemvalue="JUnit.SumofRootToLeafBinaryNumbersTest.test1" />
       <item itemvalue="JUnit.RemoveOutermostParenthesesTest.test1" />
       <item itemvalue="JUnit.LongestPalindromicSubstringTest.test1" />
+      <item itemvalue="JUnit.ZigZagConversionTest.test1" />
+      <item itemvalue="JUnit.ContainerWithMostWaterTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ContainerWithMostWaterTest.test1" />
+        <item itemvalue="JUnit.ZigZagConversionTest.test1" />
         <item itemvalue="JUnit.LongestPalindromicSubstringTest.test1" />
         <item itemvalue="JUnit.RemoveOutermostParenthesesTest.test1" />
         <item itemvalue="JUnit.SumofRootToLeafBinaryNumbersTest.test1" />
-        <item itemvalue="JUnit.BinaryPrefixDivisibleBy5Test.test1" />
-        <item itemvalue="JUnit.DecodeStringTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +515,7 @@
       <workItem from="1553728604285" duration="14042000" />
       <workItem from="1553817435096" duration="8284000" />
       <workItem from="1554175822507" duration="3382000" />
-      <workItem from="1554680739322" duration="5708000" />
+      <workItem from="1554680739322" duration="14283000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -748,50 +762,57 @@
       <option name="project" value="LOCAL" />
       <updated>1554686462171</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="medium 1">
+      <created>1554689713263</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1554689713263</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 24m 30s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 52m 58s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 24m 34s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 53m 24s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 25m 21s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 54m 03s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 26m 58s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 55m 15s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 27m 03s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 41m 40s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 27m 42s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 43m 18s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 27m 46s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 43m 41s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 29m 15s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 45m 39s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 29m 31s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 45m 45s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestPalindromicSubstringTest_test1 - 2019.04.08 at 11h 30m 49s.xml">
-      <configuration name="LongestPalindromicSubstringTest.test1" configurationId="JUnit" />
+    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 52m 11s.xml">
+      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="281037000" />
+    <option name="totallyTimeSpent" value="289612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.44151565" visible="true" weight="0.34701493" />
-      <window_info id="Structure" order="1" sideWeight="0.5584844" side_tool="true" visible="true" weight="0.34701493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4414557" visible="true" weight="0.34701493" />
+      <window_info id="Structure" order="1" sideWeight="0.5585443" side_tool="true" weight="0.34701493" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -800,8 +821,8 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3279743" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3226152" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3494105" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3226152" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3494105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -906,7 +927,8 @@
     <MESSAGE value="easy 26" />
     <MESSAGE value="easy 27" />
     <MESSAGE value="easy 28" />
-    <option name="LAST_COMMIT_MESSAGE" value="easy 28" />
+    <MESSAGE value="medium 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="medium 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2037,13 +2059,26 @@
           <option name="timeStamp" value="528" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/medium/m0005longestpalindromicsubstring/Solution.java</url>
-          <line>3</line>
+          <url>file://$PROJECT_DIR$/src/test/java/medium/m0006zigagconversion/ZigZagConversionTest.java</url>
+          <line>32</line>
           <properties />
-          <option name="timeStamp" value="529" />
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/medium/m0006zigagconversion/Solution.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="538" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="matrix[r][c]" language="JAVA" />
+        <watch expression="s.charAt(p)" language="JAVA" />
+        <watch expression="(set+1)*(n-1)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
@@ -2095,6 +2130,21 @@
     </expressions>
     <expressions id="watch">
       <expression>
+        <expression-string>(set+1)*(n-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(p)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[r][c]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>parentVal&lt;&lt;1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -2129,105 +2179,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>a&gt;&gt;&gt;1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>preorder[preStart]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>bannedStr.indexOf(word)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/todo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hard/h0297serializeanddeserializebinarytree/SerializeandDeserializeBinaryTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hard/h0297serializeanddeserializebinarytree/Codec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="102" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0033searchinrotatedsortedarray/SearchinRotatedSortedArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0162findpeakelement/FindPeakElementTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0162findpeakelement/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0153findminimuminrotatedsortedarray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0153findminimuminrotatedsortedarray/FindMinimuminRotatedSortedArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0034findfirstandlastpositionofelementinsortedarray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0034findfirstandlastpositionofelementinsortedarray/FindFirstandLastPositionofElementinSortedArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -2378,13 +2332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
           <caret line="50" column="5" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-RC1/junit-platform-commons-1.3.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
         </state>
       </provider>
     </entry>
@@ -2578,20 +2525,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0005longestpalindromicsubstring/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0005longestpalindromicsubstring/LongestPalindromicSubstringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="397">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0005longestpalindromicsubstring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-RC1/junit-platform-commons-1.3.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="3637" selection-start-line="3637" selection-end-line="3637" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="692" selection-start-line="692" selection-end-line="692" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0006zigagconversion/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0006zigagconversion/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="663">
+            <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0006zigagconversion/ZigZagConversionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
         </state>
       </provider>
     </entry>

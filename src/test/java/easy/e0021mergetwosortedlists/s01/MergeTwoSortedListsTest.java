@@ -5,8 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
-import static common.Util.constructListNode;
-import static common.Util.unConstructListNode;
+
 import static common.VerifyUtil.verifyUnsort;
 
 public class MergeTwoSortedListsTest {
@@ -25,20 +24,20 @@ public class MergeTwoSortedListsTest {
 
         nums1 = new int[]{1, 3, 5};
         nums2 = new int[]{2, 4, 6};
-        l1 = constructListNode(nums1);
-        l2 = constructListNode(nums2);
+        l1 = ListNode.constructListNode(nums1);
+        l2 = ListNode.constructListNode(nums2);
         l3 = s.mergeTwoLists(l1, l2);
         expect = new int[]{1, 2, 3, 4, 5, 6};
-        output = unConstructListNode(l3);
+        output = ListNode.unConstructListNode(l3);
         verifyUnsort(expect, output, seq++);
 
 
         nums2 = new int[]{2, 4, 6};
         l1 = null;
-        l2 =  constructListNode(nums2);
+        l2 =  ListNode.constructListNode(nums2);
         l3 = s.mergeTwoLists(l1, l2);
         expect = new int[]{2,4,6};
-        output = unConstructListNode(l3);
+        output = ListNode.unConstructListNode(l3);
         verifyUnsort(expect, output, seq++);
 
     }

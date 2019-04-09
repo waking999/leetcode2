@@ -1,32 +1,42 @@
 package common;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
+import java.util.Collections;
 import java.util.List;
-import java.util.Queue;
 
 public class Util {
-    /***************************List Node************************************/
-    public static ListNode constructListNode(int[] nums) {
-        int n = nums.length;
-        if (n == 0) {
-            return null;
-        } else if (n == 1) {
-            return new ListNode(nums[0]);
+    public static <T> List<List<T>> convertMatrixToList(T[][] matrix){
+        int r=matrix.length;
+        List<List<T>> rtn=new ArrayList<>();
+        for (T[] matrix1 : matrix) {
+            List<T> tmp = new ArrayList<>();
+            Collections.addAll(tmp, matrix1);
+            rtn.add(tmp);
         }
-
-        ListNode start = new ListNode(nums[0]);
-        ListNode tmp = new ListNode(nums[1]);
-        start.next = tmp;
-        ListNode current = tmp;
-        for (int i = 2; i < n; i++) {
-            tmp = new ListNode(nums[i]);
-            current.next = tmp;
-            current = tmp;
-
-        }
-        return start;
+        return rtn;
     }
+
+//    /***************************List Node************************************/
+//    public static ListNode constructListNode(int[] nums) {
+//        int n = nums.length;
+//        if (n == 0) {
+//            return null;
+//        } else if (n == 1) {
+//            return new ListNode(nums[0]);
+//        }
+//
+//        ListNode start = new ListNode(nums[0]);
+//        ListNode tmp = new ListNode(nums[1]);
+//        start.next = tmp;
+//        ListNode current = tmp;
+//        for (int i = 2; i < n; i++) {
+//            tmp = new ListNode(nums[i]);
+//            current.next = tmp;
+//            current = tmp;
+//
+//        }
+//        return start;
+//    }
 
 
 //    public static ListNode constructListNode(int[] nums, int[] nextIdx) {
@@ -62,63 +72,63 @@ public class Util {
 //
 //        return start;
 //    }
+//
+//    public static List<Integer> unConstructListNode(ListNode node) {
+//
+//        return unConstructListNode(node, false);
+//    }
+//
+//    public static List<Integer> unConstructListNode(ListNode node, boolean hasCycle) {
+//        if (!hasCycle) {
+//            List<Integer> ret = new ArrayList<>();
+//            if (node == null) {
+//                return ret;
+//            }
+//            while (node != null) {
+//                ret.add(node.val);
+//                node = node.next;
+//            }
+//            return ret;
+//        } else {
+//            ListNode newNode = breakCycle(node);
+//            return unConstructListNode(newNode, false);
+//        }
+//    }
+//
+//    private static ListNode breakCycle(ListNode node) {
+//        ListNode slow = node;
+//        ListNode fast = slow;
+//
+//
+//        while (fast.next != null && fast.next.next != null) {
+//            slow = slow.next;
+//            fast = fast.next.next;
+//
+//            if (slow == fast) {
+//                break;
+//            }
+//        }
+//
+//        ListNode p = slow;
+//        while (p.next != slow) {
+//            p = p.next;
+//        }
+//        p.next = null;
+//        return slow;
+//    }
 
-    public static List<Integer> unConstructListNode(ListNode node) {
+//    private static ListNode contains(ListNode start, int value) {
+//        if (start == null) {
+//            return null;
+//        }
+//        ListNode p = start;
+//        while (p != null && p.val != value) {
+//            p = p.next;
+//        }
+//        return p;
+//    }
 
-        return unConstructListNode(node, false);
-    }
-
-    public static List<Integer> unConstructListNode(ListNode node, boolean hasCycle) {
-        if (!hasCycle) {
-            List<Integer> ret = new ArrayList<>();
-            if (node == null) {
-                return ret;
-            }
-            while (node != null) {
-                ret.add(node.val);
-                node = node.next;
-            }
-            return ret;
-        } else {
-            ListNode newNode = breakCycle(node);
-            return unConstructListNode(newNode, false);
-        }
-    }
-
-    private static ListNode breakCycle(ListNode node) {
-        ListNode slow = node;
-        ListNode fast = slow;
-
-
-        while (fast.next != null && fast.next.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-
-            if (slow == fast) {
-                break;
-            }
-        }
-
-        ListNode p = slow;
-        while (p.next != slow) {
-            p = p.next;
-        }
-        p.next = null;
-        return slow;
-    }
-
-    private static ListNode contains(ListNode start, int value) {
-        if (start == null) {
-            return null;
-        }
-        ListNode p = start;
-        while (p != null && p.val != value) {
-            p = p.next;
-        }
-        return p;
-    }
-
-    /***************************TreeNode************************************/
+//    /***************************TreeNode************************************/
 
 //    static List<Integer> getTreeNodeValueList(TreeNode root) {
 //        Queue<TreeNode> q = new LinkedList<>();
@@ -152,72 +162,72 @@ public class Util {
 //        }
 //        return valArray;
 //    }
-    public static List<Integer> unconstructTreeNodeList(TreeNode root) {
-        if (root == null) {
-            return null;
-        }
-        Queue<TreeNode> q = new LinkedList<>();
-        List<Integer> rtn = new ArrayList<>();
-
-        q.add(root);
-
-        while (!q.isEmpty()) {
-            TreeNode n = q.poll();
-            if (n == null) {
-                rtn.add(null);
-            } else {
-                rtn.add(n.val);
-                q.add(n.left);
-                q.add(n.right);
-            }
-        }
-
-        int rtnLen = rtn.size();
-        int i = rtnLen - 1;
-        int count = 0;
-        while (rtn.get(i) == null) {
-            count++;
-            i--;
-        }
-        rtn = rtn.subList(0, rtnLen - count);
-        return rtn;
-    }
-
-    /***************************NormalTreeNode************************************/
-    public static TreeNode constructTreeNode(Integer[] nodes) {
-        int nodesLen = nodes.length;
-        if (nodesLen == 0) {
-            return null;
-        }
-        TreeNode root = new TreeNode(nodes[0]);
-
-        Queue<TreeNode> parent = new LinkedList<>();
-        parent.add(root);
-        for (int i = 1; i < nodesLen; i++) {
-            TreeNode c = null;
-            if (i % 2 != 0) {
-                if (nodes[i] != null) {
-                    c = new TreeNode(nodes[i]);
-                    parent.add(c);
-                    TreeNode t = parent.peek();
-                    t.left = c;
-                }
-            } else {
-                if (nodes[i] != null) {
-                    c = new TreeNode(nodes[i]);
-                    parent.add(c);
-                    TreeNode t = parent.poll();
-                    t.right = c;
-                } else {
-                    parent.poll();
-                }
-            }
-
-
-        }
-
-        return root;
-    }
+//    public static List<Integer> unconstructTreeNodeList(TreeNode root) {
+//        if (root == null) {
+//            return null;
+//        }
+//        Queue<TreeNode> q = new LinkedList<>();
+//        List<Integer> rtn = new ArrayList<>();
+//
+//        q.add(root);
+//
+//        while (!q.isEmpty()) {
+//            TreeNode n = q.poll();
+//            if (n == null) {
+//                rtn.add(null);
+//            } else {
+//                rtn.add(n.val);
+//                q.add(n.left);
+//                q.add(n.right);
+//            }
+//        }
+//
+//        int rtnLen = rtn.size();
+//        int i = rtnLen - 1;
+//        int count = 0;
+//        while (rtn.get(i) == null) {
+//            count++;
+//            i--;
+//        }
+//        rtn = rtn.subList(0, rtnLen - count);
+//        return rtn;
+//    }
+//
+//    /***************************NormalTreeNode************************************/
+//    public static TreeNode constructTreeNode(Integer[] nodes) {
+//        int nodesLen = nodes.length;
+//        if (nodesLen == 0) {
+//            return null;
+//        }
+//        TreeNode root = new TreeNode(nodes[0]);
+//
+//        Queue<TreeNode> parent = new LinkedList<>();
+//        parent.add(root);
+//        for (int i = 1; i < nodesLen; i++) {
+//            TreeNode c = null;
+//            if (i % 2 != 0) {
+//                if (nodes[i] != null) {
+//                    c = new TreeNode(nodes[i]);
+//                    parent.add(c);
+//                    TreeNode t = parent.peek();
+//                    t.left = c;
+//                }
+//            } else {
+//                if (nodes[i] != null) {
+//                    c = new TreeNode(nodes[i]);
+//                    parent.add(c);
+//                    TreeNode t = parent.poll();
+//                    t.right = c;
+//                } else {
+//                    parent.poll();
+//                }
+//            }
+//
+//
+//        }
+//
+//        return root;
+//    }
 
 //    public static TreeNode constructTreeNode(int[] nodes, int[] parentIdxs, int[] childrenPosition) {
 //        int nodesLen = nodes.length;
@@ -319,46 +329,46 @@ public class Util {
     // }
 
 
-    /***************************BinarySearchTreeNode************************************/
+//    /***************************BinarySearchTreeNode************************************/
 
-    private static void add(BinarySearchTreeNode node, int value) {
-        if (value < node.val) {
-            if (node.left != null) {
-                add((BinarySearchTreeNode) node.left, value);
-            } else {
+//    private static void add(BinarySearchTreeNode node, int value) {
+//        if (value < node.val) {
+//            if (node.left != null) {
+//                add((BinarySearchTreeNode) node.left, value);
+//            } else {
+//
+//                node.left = new BinarySearchTreeNode(value);
+//            }
+//        } else if (value > node.val) {
+//            if (node.right != null) {
+//                add((BinarySearchTreeNode) node.right, value);
+//            } else {
+//
+//                node.right = new BinarySearchTreeNode(value);
+//            }
+//        }
+//    }
+//
+//    public static BinarySearchTreeNode constructTreeNode(int[] nodes) {
+//        if (nodes == null) {
+//            return null;
+//        }
+//        int nodesLen = nodes.length;
+//        if (nodesLen == 0) {
+//            return null;
+//        }
+//
+//        BinarySearchTreeNode root = new BinarySearchTreeNode(nodes[0]);
+//
+//        for (int i = 1; i < nodesLen; i++) {
+//            add(root, nodes[i]);
+//        }
+//
+//        return root;
+//    }
 
-                node.left = new BinarySearchTreeNode(value);
-            }
-        } else if (value > node.val) {
-            if (node.right != null) {
-                add((BinarySearchTreeNode) node.right, value);
-            } else {
 
-                node.right = new BinarySearchTreeNode(value);
-            }
-        }
-    }
-
-    public static BinarySearchTreeNode constructTreeNode(int[] nodes) {
-        if (nodes == null) {
-            return null;
-        }
-        int nodesLen = nodes.length;
-        if (nodesLen == 0) {
-            return null;
-        }
-
-        BinarySearchTreeNode root = new BinarySearchTreeNode(nodes[0]);
-
-        for (int i = 1; i < nodesLen; i++) {
-            add(root, nodes[i]);
-        }
-
-        return root;
-    }
-
-
-/***************************NaryTreeNode************************************/
+// /***************************NaryTreeNode************************************/
 
 //    public static Node constructTreeNode(int[] values, int[] parentIdxs) {
 //        int nodesLen = values.length;

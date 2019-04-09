@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc37d8a2-5237-4e1f-85c8-de52c9a579bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/medium/m0006zigagconversion/description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/medium/m0006zigagconversion/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/medium/m0006zigagconversion/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0006zigagconversion/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0006zigagconversion/ZigZagConversionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0055jumpgame/description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0055jumpgame/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/medium/m0055jumpgame/solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0055jumpgame/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0073setmatrixzeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0093restoreipaddresses/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/medium/m0120triangle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0055jumpgame/JumpGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0073setmatrixzeroes/SetMatrixZeroesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0093restoreipaddresses/RestoreIPAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/medium/m0120triangle/TriangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/common/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/common/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/medium/m0889constructbinarytreefrompreorderandpostordertraversal/s01/ConstructBinaryTreefromPreorderandPostorderTraversalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/medium/m0889constructbinarytreefrompreorderandpostordertraversal/s01/ConstructBinaryTreefromPreorderandPostorderTraversalTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,21 +83,36 @@
     <option name="myElementSize" value="361" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0120triangle/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="323">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0120triangle/TriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            <state relative-caret-position="442">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/common/Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,21 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/test/java/hard/h0297serializeanddeserializebinarytree/SerializeandDeserializeBinaryTreeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hard/h0297serializeanddeserializebinarytree/Codec.java" />
-        <option value="$PROJECT_DIR$/docs/todo.md" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/m0033searchinrotatedsortedarray/SearchinRotatedSortedArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/m0162findpeakelement/FindPeakElementTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/m0162findpeakelement/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/m0153findminimuminrotatedsortedarray/FindMinimuminRotatedSortedArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/m0153findminimuminrotatedsortedarray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/m0034findfirstandlastpositionofelementinsortedarray/FindFirstandLastPositionofElementinSortedArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/m0034findfirstandlastpositionofelementinsortedarray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/medium/m0658findkclosestelements/FindKClosestElementsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/medium/m0658findkclosestelements/Solution.java" />
-        <option value="$PROJECT_DIR$/src/test/java/hard/h0154findminimuminrotatedsortedarrayii/FindMinimuminRotatedSortedArrayIITest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hard/h0154findminimuminrotatedsortedarrayii/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/medium/m0033searchinrotatedsortedarray/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/medium/m0220containsduplicateiii/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/medium/m0220containsduplicateiii/ContainsDuplicateIIITest.java" />
@@ -191,7 +195,22 @@
         <option value="$PROJECT_DIR$/docs/medium/m0005longestpalindromicsubstring/solution.md" />
         <option value="$PROJECT_DIR$/docs/medium/m0006zigagconversion/description.md" />
         <option value="$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java" />
+        <option value="$PROJECT_DIR$/docs/medium/m0011containerwithmostwater/description.md" />
         <option value="$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java" />
+        <option value="$PROJECT_DIR$/docs/medium/m0011containerwithmostwater/solution.md" />
+        <option value="$PROJECT_DIR$/docs/medium/m0055jumpgame/description.md" />
+        <option value="$PROJECT_DIR$/docs/medium/m0055jumpgame/solution.md" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0055jumpgame/JumpGameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0055jumpgame/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0073setmatrixzeroes/SetMatrixZeroesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0073setmatrixzeroes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0093restoreipaddresses/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0093restoreipaddresses/RestoreIPAddressTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0889constructbinarytreefrompreorderandpostordertraversal/s01/ConstructBinaryTreefromPreorderandPostorderTraversalTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/common/Util.java" />
+        <option value="$PROJECT_DIR$/src/test/java/medium/m0120triangle/TriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/medium/m0120triangle/Solution.java" />
       </list>
     </option>
   </component>
@@ -236,6 +255,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,6 +278,20 @@
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="m0006zigagconversion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="m0011containerwithmostwater" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,6 +311,14 @@
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -284,6 +327,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode2" type="b2602c69:ProjectViewProjectNode" />
@@ -297,14 +348,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554705408084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554793830851" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -334,11 +383,11 @@
       <recent name="common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0055jumpgame" />
+      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0011containerwithmostwater" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0005longestpalindromicsubstring" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\medium\m0006zigagconversion" />
       <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e1022sumofroottoleafbinarynumbers" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e1021removeoutermostparentheses" />
-      <recent name="C:\Users\kwang1\workspace\leetcode2\docs\easy\e0690employeeimportance" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="easy.e0703kthlargestelementinastream.s03" />
@@ -363,7 +412,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ContainerWithMostWaterTest.test1">
+  <component name="RunManager" selected="JUnit.TriangleTest.test1">
     <configuration name="ContainerWithMostWaterTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
@@ -380,64 +429,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubstringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JumpGameTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.m0005longestpalindromicsubstring.*" />
+          <option name="PATTERN" value="medium.m0055jumpgame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="medium.m0005longestpalindromicsubstring" />
-      <option name="MAIN_CLASS_NAME" value="medium.m0005longestpalindromicsubstring.LongestPalindromicSubstringTest" />
+      <option name="PACKAGE_NAME" value="medium.m0055jumpgame" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0055jumpgame.JumpGameTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveOutermostParenthesesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RestoreIPAddressTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e1021removeoutermostparentheses.*" />
+          <option name="PATTERN" value="medium.m0093restoreipaddresses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e1021removeoutermostparentheses" />
-      <option name="MAIN_CLASS_NAME" value="easy.e1021removeoutermostparentheses.RemoveOutermostParenthesesTest" />
+      <option name="PACKAGE_NAME" value="medium.m0093restoreipaddresses" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0093restoreipaddresses.RestoreIPAddressTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumofRootToLeafBinaryNumbersTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SetMatrixZeroesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.e1022sumofroottoleafbinarynumbers.*" />
+          <option name="PATTERN" value="medium.m0073setmatrixzeroes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="easy.e1022sumofroottoleafbinarynumbers" />
-      <option name="MAIN_CLASS_NAME" value="easy.e1022sumofroottoleafbinarynumbers.SumofRootToLeafBinaryNumbersTest" />
+      <option name="PACKAGE_NAME" value="medium.m0073setmatrixzeroes" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0073setmatrixzeroes.SetMatrixZeroesTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigZagConversionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TriangleTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.m0006zigagconversion.*" />
+          <option name="PATTERN" value="medium.m0120triangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="medium.m0006zigagconversion" />
-      <option name="MAIN_CLASS_NAME" value="medium.m0006zigagconversion.ZigZagConversionTest" />
+      <option name="PACKAGE_NAME" value="medium.m0120triangle" />
+      <option name="MAIN_CLASS_NAME" value="medium.m0120triangle.TriangleTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -445,19 +494,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SumofRootToLeafBinaryNumbersTest.test1" />
-      <item itemvalue="JUnit.RemoveOutermostParenthesesTest.test1" />
-      <item itemvalue="JUnit.LongestPalindromicSubstringTest.test1" />
-      <item itemvalue="JUnit.ZigZagConversionTest.test1" />
       <item itemvalue="JUnit.ContainerWithMostWaterTest.test1" />
+      <item itemvalue="JUnit.JumpGameTest.test1" />
+      <item itemvalue="JUnit.SetMatrixZeroesTest.test1" />
+      <item itemvalue="JUnit.RestoreIPAddressTest.test1" />
+      <item itemvalue="JUnit.TriangleTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TriangleTest.test1" />
+        <item itemvalue="JUnit.RestoreIPAddressTest.test1" />
+        <item itemvalue="JUnit.SetMatrixZeroesTest.test1" />
+        <item itemvalue="JUnit.JumpGameTest.test1" />
         <item itemvalue="JUnit.ContainerWithMostWaterTest.test1" />
-        <item itemvalue="JUnit.ZigZagConversionTest.test1" />
-        <item itemvalue="JUnit.LongestPalindromicSubstringTest.test1" />
-        <item itemvalue="JUnit.RemoveOutermostParenthesesTest.test1" />
-        <item itemvalue="JUnit.SumofRootToLeafBinaryNumbersTest.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -515,7 +564,9 @@
       <workItem from="1553728604285" duration="14042000" />
       <workItem from="1553817435096" duration="8284000" />
       <workItem from="1554175822507" duration="3382000" />
-      <workItem from="1554680739322" duration="14283000" />
+      <workItem from="1554680739322" duration="14521000" />
+      <workItem from="1554775070681" duration="601000" />
+      <workItem from="1554785045851" duration="8671000" />
     </task>
     <task id="LOCAL-00001" summary="easy 1">
       <created>1534222112636</created>
@@ -769,49 +820,56 @@
       <option name="project" value="LOCAL" />
       <updated>1554689713263</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="medium 1">
+      <created>1554705431035</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1554705431035</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 52m 58s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="RestoreIPAddressTest_test1 - 2019.04.09 at 16h 09m 12s.xml">
+      <configuration name="RestoreIPAddressTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 53m 24s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="RestoreIPAddressTest_test1 - 2019.04.09 at 16h 10m 49s.xml">
+      <configuration name="RestoreIPAddressTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 54m 03s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="RestoreIPAddressTest_test1 - 2019.04.09 at 16h 12m 14s.xml">
+      <configuration name="RestoreIPAddressTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 14h 55m 15s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="RestoreIPAddressTest_test1 - 2019.04.09 at 16h 12m 25s.xml">
+      <configuration name="RestoreIPAddressTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 41m 40s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="RestoreIPAddressTest_test1 - 2019.04.09 at 16h 12m 35s.xml">
+      <configuration name="RestoreIPAddressTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 43m 18s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="RestoreIPAddressTest_test1 - 2019.04.09 at 16h 30m 37s.xml">
+      <configuration name="RestoreIPAddressTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 43m 41s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="TriangleTest_test1 - 2019.04.09 at 16h 31m 38s.xml">
+      <configuration name="TriangleTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 45m 39s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="TriangleTest_test1 - 2019.04.09 at 16h 33m 43s.xml">
+      <configuration name="TriangleTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 45m 45s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="TriangleTest_test1 - 2019.04.09 at 16h 34m 44s.xml">
+      <configuration name="TriangleTest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ZigZagConversionTest_test1 - 2019.04.08 at 15h 52m 11s.xml">
-      <configuration name="ZigZagConversionTest.test1" configurationId="JUnit" />
+    <history-entry file="TriangleTest_test1 - 2019.04.09 at 16h 36m 50s.xml">
+      <configuration name="TriangleTest.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289612000" />
+    <option name="totallyTimeSpent" value="299122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4414557" visible="true" weight="0.34701493" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4414557" visible="true" weight="0.3544776" />
       <window_info id="Structure" order="1" sideWeight="0.5585443" side_tool="true" weight="0.34701493" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -819,10 +877,11 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Dependency Viewer" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3279743" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3226152" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3494105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3226152" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3494105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -2070,6 +2129,30 @@
           <properties />
           <option name="timeStamp" value="538" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/medium/m0055jumpgame/JumpGameTest.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/medium/m0055jumpgame/Solution.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/medium/m0093restoreipaddresses/Solution.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/medium/m0093restoreipaddresses/Solution.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -2077,11 +2160,27 @@
         <watch expression="matrix[r][c]" language="JAVA" />
         <watch expression="s.charAt(p)" language="JAVA" />
         <watch expression="(set+1)*(n-1)" language="JAVA" />
+        <watch expression="j + nums[i + j]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>&quot;010&quot;.equals(ip)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;010&quot;.equals(str.substring(subDomainStartPos, subDomainStartPos + l))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;00&quot;.equals(str.substring(subDomainStartPos, subDomainStartPos + l))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>&quot;b.&quot;.equals(param[0])</expression-string>
         <language-id>JAVA</language-id>
@@ -2117,18 +2216,13 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>old</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>&quot;ccc&quot;.equals(w)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="watch">
+      <expression>
+        <expression-string>j + nums[i + j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>(set+1)*(n-1)</expression-string>
         <language-id>JAVA</language-id>
@@ -2174,150 +2268,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>A[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0034findfirstandlastpositionofelementinsortedarray/FindFirstandLastPositionofElementinSortedArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0658findkclosestelements/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0658findkclosestelements/FindKClosestElementsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hard/h0154findminimuminrotatedsortedarrayii/FindMinimuminRotatedSortedArrayIITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="18" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hard/h0154findminimuminrotatedsortedarrayii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0033searchinrotatedsortedarray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/NormalBinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/s01/KthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0703kthlargestelementinastream/s03/KthLargestElementinaStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/easy/e0703kthlargestelementinastream/s03/KthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0208implementtrieprefixtree/ImplementTriePrefixTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0677mapsumpairs/MapSumPairTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0677mapsumpairs/MapSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0220containsduplicateiii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="60" column="25" lean-forward="true" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0208implementtrieprefixtree/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0648replacewords/ReplaceWordsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -2457,13 +2410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="242" column="53" selection-start-line="242" selection-start-column="53" selection-end-line="242" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/easy/e1022sumofroottoleafbinarynumbers/SumofRootToLeafBinaryNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -2518,13 +2464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0005longestpalindromicsubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0005longestpalindromicsubstring.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0005longestpalindromicsubstring/LongestPalindromicSubstringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
@@ -2612,18 +2552,173 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0011containerwithmostwater/ContainerWithMostWaterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0011containerwithmostwater/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0011containerwithmostwater/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0011containerwithmostwater/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0055jumpgame/description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/medium/m0055jumpgame/solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/VerifyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0055jumpgame/JumpGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0055jumpgame/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0073setmatrixzeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0073setmatrixzeroes/SetMatrixZeroesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0073setmatrixzeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0093restoreipaddresses/RestoreIPAddressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" selection-start-line="17" selection-end-line="31" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/easy/e0021mergetwosortedlists/s01/MergeTwoSortedListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0889constructbinarytreefrompreorderandpostordertraversal/s01/ConstructBinaryTreefromPreorderandPostorderTraversalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0093restoreipaddresses/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/medium/m0120triangle/TriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/medium/m0120triangle/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

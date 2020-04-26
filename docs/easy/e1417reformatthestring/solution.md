@@ -1,6 +1,6 @@
 ### Idea
 
 ### Runtime beats
-100%
+95.94%
 
 [Back](./readme.md)

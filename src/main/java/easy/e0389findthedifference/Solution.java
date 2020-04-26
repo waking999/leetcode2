@@ -1,4 +1,4 @@
-package easy.e389findthedifference;
+package easy.e0389findthedifference;
 
 
 public class Solution {

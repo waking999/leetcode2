@@ -1,4 +1,4 @@
-package easy.e367validperfectsquare;
+package easy.e0367validperfectsquare;
 
 import common.VerifyUtil;
 import org.junit.jupiter.api.Test;

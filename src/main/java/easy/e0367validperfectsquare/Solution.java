@@ -1,4 +1,4 @@
-package easy.e367validperfectsquare;
+package easy.e0367validperfectsquare;
 
 public class Solution {
     public boolean isPerfectSquare(int num) {

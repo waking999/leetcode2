@@ -1,7 +1,9 @@
 package easy.e0896monotonicarray.s01;
 
+import org.junit.jupiter.api.Test;
+
 import common.VerifyUtil;
-import org.junit.Test;
+ 
 
 public class MonotonicArrayTest {
     @Test

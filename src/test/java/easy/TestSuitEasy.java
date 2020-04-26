@@ -6,5 +6,5 @@ import org.junit.runner.RunWith;
 
 @RunWith(JUnitPlatform.class)
 @SelectPackages("easy")
-public class TestSuit {
+public class TestSuitEasy {
 }

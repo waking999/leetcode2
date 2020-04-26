@@ -9,60 +9,34 @@ import java.util.List;
 import java.util.Queue;
 
 
-public class Solution {
+class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ret = new ArrayList<>();
-        if (root == null) {
-            return ret;
-        }
-        List<Integer> list = new ArrayList<>();
-        list.add(root.val);
-        ret.add(list);
+		List<List<Integer>> ret = new ArrayList<>();
+		if (root == null) {
+			return ret;
+		}
+		
+		int level = 0;
+		dfs(root, level, ret);
 
-        bfs(root, ret);
+		return ret;
+	}
 
-        return ret;
-    }
+	private void dfs(TreeNode node, int level, List<List<Integer>> list) {
+		if (node == null) {
+			return;
+		}
+		int listSize = list.size();
+		List<Integer> row;
+		if (listSize <= level) {
+			row = new ArrayList<Integer>();
+			list.add(row);
+		} else {
+			row = list.get(level);
+		}
 
-    private int getLevel(int index) {
-        return (int) (Math.log(index ) / Math.log(2));
-    }
-
-    private void bfs(TreeNode root, List<List<Integer>> list) {
-        LinkedList<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        int index = 1;
-        int level = 0;
-        while (!q.isEmpty()) {
-            TreeNode node = q.pop();
-
-
-            index++;
-            if(node.left!=null) {
-                q.offer(node.left);
-                level = getLevel(index);
-                List<Integer> tmp = getList(list, level);
-                tmp.add(node.left.val);
-            }
-
-
-            index++;
-            if(node.right!=null) {
-                q.offer(node.right);
-                level = getLevel(index);
-                List<Integer> tmp = getList(list, level);
-                tmp.add(node.right.val);
-            }
-        }
-    }
-
-    private List<Integer> getList(List<List<Integer>> list, int level) {
-        if (level >= list.size()) {
-            List<Integer> tmp = new ArrayList<>();
-            list.add(tmp);
-            return tmp;
-        } else {
-            return list.get(level);
-        }
-    }
+		row.add(node.val);
+		dfs(node.left, level + 1, list);
+		dfs(node.right, level + 1, list);
+	}
 }
